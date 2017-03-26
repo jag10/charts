@@ -1,0 +1,2469 @@
+NUMBER	MOVIE	DAY_NUM	DAILY_PER_THEATER	DATE
+1	A Beautiful Mind	1	8909	12/24/2001
+1	A Beautiful Mind	2	3885	12/25/2001
+1	A Beautiful Mind	3	3365	12/26/2001
+1	A Beautiful Mind	4	3324	12/27/2001
+1	A Beautiful Mind	5	4403	12/28/2001
+1	A Beautiful Mind	6	5475	12/29/2001
+1	A Beautiful Mind	7	4964	12/30/2001
+1	A Beautiful Mind	8	4126	12/31/2001
+1	A Beautiful Mind	9	5110	1/1/2002
+1	A Beautiful Mind	10	2606	1/2/2002
+1	A Beautiful Mind	11	2450	1/3/2002
+1	A Beautiful Mind	12	2738	1/4/2002
+1	A Beautiful Mind	13	3979	1/5/2002
+1	A Beautiful Mind	14	2253	1/6/2002
+1	A Beautiful Mind	15	675	1/7/2002
+1	A Beautiful Mind	16	810	1/8/2002
+1	A Beautiful Mind	17	735	1/9/2002
+1	A Beautiful Mind	18	705	1/10/2002
+1	A Beautiful Mind	19	2012	1/11/2002
+1	A Beautiful Mind	20	3098	1/12/2002
+1	A Beautiful Mind	21	1746	1/13/2002
+1	A Beautiful Mind	22	470	1/14/2002
+1	A Beautiful Mind	23	554	1/15/2002
+1	A Beautiful Mind	24	495	1/16/2002
+1	A Beautiful Mind	25	500	1/17/2002
+1	A Beautiful Mind	26	1560	1/18/2002
+1	A Beautiful Mind	27	2215	1/19/2002
+1	A Beautiful Mind	28	1775	1/20/2002
+1	A Beautiful Mind	29	1059	1/21/2002
+1	A Beautiful Mind	30	600	1/22/2002
+1	A Beautiful Mind	31	540	1/23/2002
+1	A Beautiful Mind	32	540	1/24/2002
+1	A Beautiful Mind	33	1444	1/25/2002
+1	A Beautiful Mind	34	2317	1/26/2002
+1	A Beautiful Mind	35	1168	1/27/2002
+1	A Beautiful Mind	36	335	1/28/2002
+1	A Beautiful Mind	37	400	1/29/2002
+1	A Beautiful Mind	38	360	1/30/2002
+1	A Beautiful Mind	39	340	1/31/2002
+1	A Beautiful Mind	40	1162	2/1/2002
+1	A Beautiful Mind	41	2008	2/2/2002
+1	A Beautiful Mind	42	644	2/3/2002
+1	A Beautiful Mind	43	235	2/4/2002
+1	A Beautiful Mind	44	300	2/5/2002
+1	A Beautiful Mind	45	280	2/6/2002
+1	A Beautiful Mind	46	280	2/7/2002
+1	A Beautiful Mind	47	735	2/8/2002
+1	A Beautiful Mind	48	1378	2/9/2002
+1	A Beautiful Mind	49	761	2/10/2002
+1	A Beautiful Mind	50	195	2/11/2002
+1	A Beautiful Mind	51	275	2/12/2002
+1	A Beautiful Mind	52	260	2/13/2002
+1	A Beautiful Mind	53	620	2/14/2002
+1	A Beautiful Mind	54	836	2/15/2002
+1	A Beautiful Mind	55	1480	2/16/2002
+1	A Beautiful Mind	56	1032	2/17/2002
+1	A Beautiful Mind	57	640	2/18/2002
+1	A Beautiful Mind	58	300	2/19/2002
+1	A Beautiful Mind	59	260	2/20/2002
+1	A Beautiful Mind	60	250	2/21/2002
+1	A Beautiful Mind	61	767	2/22/2002
+1	A Beautiful Mind	62	1354	2/23/2002
+1	A Beautiful Mind	63	549	2/24/2002
+1	A Beautiful Mind	64	173	2/25/2002
+1	A Beautiful Mind	65	213	2/26/2002
+1	A Beautiful Mind	66	193	2/27/2002
+1	A Beautiful Mind	67	200	2/28/2002
+1	A Beautiful Mind	68	608	3/1/2002
+1	A Beautiful Mind	69	1138	3/2/2002
+1	A Beautiful Mind	70	632	3/3/2002
+1	A Beautiful Mind	71	170	3/4/2002
+1	A Beautiful Mind	72	205	3/5/2002
+1	A Beautiful Mind	73	185	3/6/2002
+1	A Beautiful Mind	74	190	3/7/2002
+1	A Beautiful Mind	75	587	3/8/2002
+1	A Beautiful Mind	76	1024	3/9/2002
+1	A Beautiful Mind	77	554	3/10/2002
+1	A Beautiful Mind	78	195	3/11/2002
+1	A Beautiful Mind	79	245	3/12/2002
+1	A Beautiful Mind	80	215	3/13/2002
+1	A Beautiful Mind	81	210	3/14/2002
+1	A Beautiful Mind	82	601	3/15/2002
+1	A Beautiful Mind	83	1042	3/16/2002
+1	A Beautiful Mind	84	549	3/17/2002
+1	A Beautiful Mind	85	210	3/18/2002
+1	A Beautiful Mind	86	250	3/19/2002
+1	A Beautiful Mind	87	225	3/20/2002
+1	A Beautiful Mind	88	240	3/21/2002
+1	A Beautiful Mind	89	720	3/22/2002
+1	A Beautiful Mind	90	1297	3/23/2002
+1	A Beautiful Mind	91	541	3/24/2002
+1	A Beautiful Mind	92	370	3/25/2002
+1	A Beautiful Mind	93	395	3/26/2002
+1	A Beautiful Mind	94	360	3/27/2002
+1	A Beautiful Mind	95	374	3/28/2002
+1	A Beautiful Mind	96	900	3/29/2002
+1	A Beautiful Mind	97	980	3/30/2002
+1	A Beautiful Mind	98	610	3/31/2002
+1	A Beautiful Mind	99	265	4/1/2002
+1	A Beautiful Mind	100	255	4/2/2002
+1	A Beautiful Mind	101	245	4/3/2002
+1	A Beautiful Mind	102	230	4/4/2002
+1	A Beautiful Mind	103	550	4/5/2002
+1	A Beautiful Mind	104	880	4/6/2002
+1	A Beautiful Mind	105	380	4/7/2002
+1	A Beautiful Mind	106	110	4/8/2002
+1	A Beautiful Mind	107	140	4/9/2002
+1	A Beautiful Mind	108	116	4/10/2002
+1	A Beautiful Mind	109	115	4/11/2002
+2	American Beauty	1	12128	9/15/1999
+2	American Beauty	2	12853	9/16/1999
+2	American Beauty	3	16438	9/17/1999
+2	American Beauty	4	19625	9/18/1999
+2	American Beauty	5	16938	9/19/1999
+2	American Beauty	6	9234	9/20/1999
+2	American Beauty	7	8120	9/21/1999
+2	American Beauty	8	8173	9/22/1999
+2	American Beauty	9	7220	9/23/1999
+2	American Beauty	10	4009	9/24/1999
+2	American Beauty	11	5790	9/25/1999
+2	American Beauty	12	3653	9/26/1999
+2	American Beauty	13	1412	9/27/1999
+2	American Beauty	14	1677	9/28/1999
+2	American Beauty	15	1637	9/29/1999
+2	American Beauty	16	1619	9/30/1999
+2	American Beauty	17	3431	10/1/1999
+2	American Beauty	18	5059	10/2/1999
+2	American Beauty	19	3160	10/3/1999
+2	American Beauty	20	1046	10/4/1999
+2	American Beauty	21	1206	10/5/1999
+2	American Beauty	22	1150	10/6/1999
+2	American Beauty	23	1159	10/7/1999
+2	American Beauty	24	2153	10/8/1999
+2	American Beauty	25	3200	10/9/1999
+2	American Beauty	26	2371	10/10/1999
+2	American Beauty	27	950	10/11/1999
+2	American Beauty	28	655	10/12/1999
+2	American Beauty	29	596	10/13/1999
+2	American Beauty	30	598	10/14/1999
+2	American Beauty	31	1437	10/15/1999
+2	American Beauty	32	2215	10/16/1999
+2	American Beauty	33	1234	10/17/1999
+2	American Beauty	34	380	10/18/1999
+2	American Beauty	35	437	10/19/1999
+2	American Beauty	36	455	10/20/1999
+2	American Beauty	37	425	10/21/1999
+2	American Beauty	38	1097	10/22/1999
+2	American Beauty	39	1594	10/23/1999
+2	American Beauty	40	877	10/24/1999
+2	American Beauty	41	278	10/25/1999
+2	American Beauty	42	316	10/26/1999
+2	American Beauty	43	276	10/27/1999
+2	American Beauty	44	292	10/28/1999
+2	American Beauty	45	769	10/29/1999
+2	American Beauty	46	1106	10/30/1999
+2	American Beauty	47	579	10/31/1999
+2	American Beauty	48	208	11/1/1999
+2	American Beauty	49	284	11/2/1999
+2	American Beauty	50	248	11/3/1999
+2	American Beauty	51	243	11/4/1999
+2	American Beauty	52	657	11/5/1999
+2	American Beauty	53	1008	11/6/1999
+2	American Beauty	54	492	11/7/1999
+2	American Beauty	55	149	11/8/1999
+2	American Beauty	56	195	11/9/1999
+2	American Beauty	57	235	11/10/1999
+2	American Beauty	58	297	11/11/1999
+2	American Beauty	59	578	11/12/1999
+2	American Beauty	60	514	11/13/1999
+2	American Beauty	61	430	11/14/1999
+2	American Beauty	62	130	11/15/1999
+2	American Beauty	63	168	11/16/1999
+2	American Beauty	64	150	11/17/1999
+2	American Beauty	65	147	11/18/1999
+2	American Beauty	66	444	11/19/1999
+2	American Beauty	67	733	11/20/1999
+2	American Beauty	68	374	11/21/1999
+2	American Beauty	69	135	11/22/1999
+2	American Beauty	70	189	11/23/1999
+2	American Beauty	71	374	11/28/1999
+2	American Beauty	72	110	11/29/1999
+2	American Beauty	73	138	11/30/1999
+2	American Beauty	74	117	12/1/1999
+2	American Beauty	75	121	12/2/1999
+2	American Beauty	76	265	12/5/1999
+2	American Beauty	77	93	12/6/1999
+2	American Beauty	78	120	12/7/1999
+2	American Beauty	79	112	12/8/1999
+2	American Beauty	80	120	12/9/1999
+2	American Beauty	81	264	12/12/1999
+2	American Beauty	82	96	12/13/1999
+2	American Beauty	83	122	12/14/1999
+2	American Beauty	84	82	12/15/1999
+2	American Beauty	85	122	12/16/1999
+2	American Beauty	86	356	12/19/1999
+2	American Beauty	87	214	12/20/1999
+2	American Beauty	88	304	12/21/1999
+2	American Beauty	89		12/26/1999
+2	American Beauty	90	421	12/27/1999
+2	American Beauty	91	431	12/28/1999
+2	American Beauty	92	404	12/29/1999
+2	American Beauty	93	687	1/2/2000
+2	American Beauty	94	326	1/3/2000
+2	American Beauty	95	277	1/4/2000
+2	American Beauty	96	285	1/5/2000
+2	American Beauty	97	282	1/6/2000
+2	American Beauty	98	450	1/9/2000
+2	American Beauty	99	199	1/10/2000
+2	American Beauty	100	223	1/11/2000
+2	American Beauty	101	203	1/12/2000
+2	American Beauty	102	317	1/17/2000
+2	American Beauty	103	296	1/24/2000
+2	American Beauty	104	294	1/25/2000
+2	American Beauty	105	212	2/2/2000
+2	American Beauty	106	942	2/18/2000
+2	American Beauty	107	1935	2/19/2000
+2	American Beauty	108	1603	2/20/2000
+2	American Beauty	109	787	2/21/2000
+2	American Beauty	110	435	2/22/2000
+2	American Beauty	111	359	2/23/2000
+2	American Beauty	112	367	2/24/2000
+2	American Beauty	113	933	2/25/2000
+2	American Beauty	114	1598	2/26/2000
+2	American Beauty	115	908	2/27/2000
+2	American Beauty	116	239	2/28/2000
+2	American Beauty	117	300	2/29/2000
+2	American Beauty	118	273	3/1/2000
+2	American Beauty	119	290	3/2/2000
+2	American Beauty	120	831	3/3/2000
+2	American Beauty	121	1431	3/4/2000
+2	American Beauty	122	763	3/5/2000
+2	American Beauty	123	228	3/6/2000
+2	American Beauty	124	271	3/7/2000
+2	American Beauty	125	251	3/8/2000
+2	American Beauty	126	261	3/9/2000
+2	American Beauty	127	643	3/10/2000
+2	American Beauty	128	1132	3/11/2000
+2	American Beauty	129	635	3/12/2000
+2	American Beauty	130	276	3/13/2000
+2	American Beauty	131	333	3/14/2000
+2	American Beauty	132	296	3/15/2000
+2	American Beauty	133	290	3/16/2000
+2	American Beauty	134	494	3/17/2000
+2	American Beauty	135	924	3/18/2000
+2	American Beauty	136	541	3/19/2000
+2	American Beauty	137	189	3/20/2000
+2	American Beauty	138	236	3/21/2000
+2	American Beauty	139	213	3/22/2000
+2	American Beauty	140	220	3/23/2000
+2	American Beauty	141	715	3/24/2000
+2	American Beauty	142	1312	3/25/2000
+2	American Beauty	143	552	3/26/2000
+2	American Beauty	144	438	3/27/2000
+2	American Beauty	145	467	3/28/2000
+2	American Beauty	146	389	3/29/2000
+2	American Beauty	147	381	3/30/2000
+2	American Beauty	148	917	3/31/2000
+2	American Beauty	149	1326	4/1/2000
+2	American Beauty	150	690	4/2/2000
+2	American Beauty	151	182	4/3/2000
+2	American Beauty	152	247	4/4/2000
+2	American Beauty	153	198	4/5/2000
+2	American Beauty	154	193	4/6/2000
+2	American Beauty	155	523	4/7/2000
+2	American Beauty	156	914	4/8/2000
+2	American Beauty	157	411	4/9/2000
+2	American Beauty	158	130	4/10/2000
+2	American Beauty	159	166	4/11/2000
+2	American Beauty	160	140	4/12/2000
+2	American Beauty	161	138	4/13/2000
+2	American Beauty	162	331	4/16/2000
+2	American Beauty	163	132	4/17/2000
+2	American Beauty	164	157	4/18/2000
+2	American Beauty	165	138	4/19/2000
+2	American Beauty	166	226	4/23/2000
+2	American Beauty	167	94	4/24/2000
+2	American Beauty	168	95	4/25/2000
+2	American Beauty	169	83	4/26/2000
+2	American Beauty	170	81	4/27/2000
+2	American Beauty	171	188	4/30/2000
+2	American Beauty	172	75	5/1/2000
+2	American Beauty	173	100	5/2/2000
+2	American Beauty	174	76	5/3/2000
+2	American Beauty	175	86	5/4/2000
+2	American Beauty	176	194	5/7/2000
+2	American Beauty	177	78	5/8/2000
+2	American Beauty	178	102	5/9/2000
+2	American Beauty	179	89	5/10/2000
+2	American Beauty	180	80	5/11/2000
+2	American Beauty	181	72	5/15/2000
+2	American Beauty	182	100	5/16/2000
+2	American Beauty	183	77	5/17/2000
+2	American Beauty	184	76	5/18/2000
+3	Batman	1	5999	6/23/1989
+3	Batman	2	6656	6/24/1989
+3	Batman	3	5800	6/25/1989
+3	Batman	4	3300	6/26/1989
+3	Batman	5	3285	6/27/1989
+3	Batman	6	3022	6/28/1989
+3	Batman	7	2899	6/29/1989
+3	Batman	8	3995	6/30/1989
+3	Batman	9	5053	7/1/1989
+3	Batman	10	4617	7/2/1989
+3	Batman	11	3516	7/3/1989
+3	Batman	12	2610	7/4/1989
+3	Batman	13	1980	7/5/1989
+3	Batman	14	1976	7/6/1989
+3	Batman	15	2756	7/7/1989
+3	Batman	16	3458	7/8/1989
+3	Batman	17	2532	7/9/1989
+3	Batman	18	1274	7/10/1989
+3	Batman	19	1245	7/11/1989
+3	Batman	20	1204	7/12/1989
+3	Batman	21	1212	7/13/1989
+3	Batman	22	1959	7/14/1989
+3	Batman	23	2759	7/15/1989
+3	Batman	24	2149	7/16/1989
+3	Batman	25	1000	7/17/1989
+3	Batman	26	1007	7/18/1989
+3	Batman	27	954	7/19/1989
+3	Batman	28	1002	7/20/1989
+3	Batman	29	1449	7/21/1989
+3	Batman	30	2159	7/22/1989
+3	Batman	31	1465	7/23/1989
+3	Batman	32	709	7/24/1989
+3	Batman	33	757	7/25/1989
+3	Batman	34	703	7/26/1989
+3	Batman	35	736	7/27/1989
+3	Batman	36	1135	7/28/1989
+3	Batman	37	1726	7/29/1989
+3	Batman	38	1206	7/30/1989
+3	Batman	39	571	7/31/1989
+3	Batman	40	593	8/1/1989
+3	Batman	41	523	8/2/1989
+3	Batman	42	486	8/3/1989
+3	Batman	43	929	8/4/1989
+3	Batman	44	1328	8/5/1989
+3	Batman	45	978	8/6/1989
+3	Batman	46	463	8/7/1989
+3	Batman	47	460	8/8/1989
+3	Batman	48	409	8/9/1989
+3	Batman	49	404	8/10/1989
+3	Batman	50	826	8/11/1989
+3	Batman	51	1174	8/12/1989
+3	Batman	52	828	8/13/1989
+3	Batman	53	386	8/14/1989
+3	Batman	54	433	8/15/1989
+3	Batman	55	353	8/16/1989
+3	Batman	56	349	8/17/1989
+3	Batman	57	711	8/18/1989
+3	Batman	58	994	8/19/1989
+3	Batman	59	753	8/20/1989
+3	Batman	60	352	8/21/1989
+3	Batman	61	377	8/22/1989
+3	Batman	62	334	8/23/1989
+3	Batman	63	320	8/24/1989
+3	Batman	64	577	8/25/1989
+3	Batman	65	857	8/26/1989
+3	Batman	66	561	8/27/1989
+3	Batman	67	270	8/28/1989
+3	Batman	68	304	8/29/1989
+3	Batman	69	239	8/30/1989
+3	Batman	70	237	8/31/1989
+3	Batman	71	510	9/1/1989
+3	Batman	72	829	9/2/1989
+3	Batman	73	793	9/3/1989
+3	Batman	74	501	9/4/1989
+3	Batman	75	195	9/5/1989
+3	Batman	76	142	9/6/1989
+3	Batman	77	140	9/7/1989
+3	Batman	78	398	9/8/1989
+3	Batman	79	699	9/9/1989
+3	Batman	80	373	9/10/1989
+3	Batman	81	106	9/11/1989
+3	Batman	82	121	9/12/1989
+3	Batman	83	107	9/13/1989
+3	Batman	84	116	9/14/1989
+3	Batman	85	352	9/15/1989
+3	Batman	86	659	9/16/1989
+3	Batman	87	352	9/17/1989
+3	Batman	88	94	9/18/1989
+3	Batman	89	109	9/19/1989
+3	Batman	90	101	9/20/1989
+3	Batman	91	94	9/21/1989
+3	Batman	92	281	9/22/1989
+3	Batman	93	533	9/23/1989
+3	Batman	94	272	9/24/1989
+3	Batman	95	79	9/25/1989
+3	Batman	96	93	9/26/1989
+3	Batman	97	82	9/27/1989
+3	Batman	98	86	9/28/1989
+3	Batman	99	295	9/29/1989
+3	Batman	100	536	9/30/1989
+3	Batman	101	290	10/1/1989
+3	Batman	102	76	10/2/1989
+3	Batman	103	82	10/3/1989
+3	Batman	104	77	10/4/1989
+3	Batman	105	82	10/5/1989
+3	Batman	106	258	10/6/1989
+3	Batman	107	454	10/7/1989
+3	Batman	108	281	10/8/1989
+3	Batman	109	126	10/9/1989
+3	Batman	110	81	10/10/1989
+3	Batman	111	73	10/11/1989
+3	Batman	112	79	10/12/1989
+3	Batman	113	235	10/13/1989
+3	Batman	114	380	10/14/1989
+3	Batman	115	222	10/15/1989
+3	Batman	116	63	10/16/1989
+3	Batman	117	66	10/17/1989
+3	Batman	118	65	10/18/1989
+3	Batman	119	78	10/19/1989
+3	Batman	120	223	10/20/1989
+3	Batman	121	407	10/21/1989
+3	Batman	122	219	10/22/1989
+3	Batman	123	67	10/23/1989	
+3	Batman	124	75	10/24/1989	
+3	Batman	125	70	10/25/1989	
+3	Batman	126	74	10/26/1989	
+3	Batman	127	296	10/27/1989	
+3	Batman	128	494	10/28/1989	
+3	Batman	129	377	10/29/1989	
+3	Batman	130	111	10/30/1989	*
+3	Batman	131	104	10/31/1989	
+3	Batman	132	132	11/1/1989	
+3	Batman	133	143	11/2/1989	
+3	Batman	134	336	11/3/1989	
+3	Batman	135	572	11/4/1989	
+3	Batman	136	408	11/5/1989	
+3	Batman	137	83	11/6/1989	
+3	Batman	138	82	11/7/1989	
+3	Batman	139	75	11/8/1989
+3	Batman	140	88	11/9/1989
+3	Batman	141	283	11/10/1989
+3	Batman	142	433	11/11/1989
+3	Batman	143	249	11/12/1989
+3	Batman	144	54	11/13/1989
+3	Batman	145	53	11/14/1989
+3	Batman	146	49	11/15/1989
+3	Batman	147	49	11/16/1989
+3	Batman	148	131	11/17/1989
+3	Batman	149	252	11/18/1989
+3	Batman	150	138	11/19/1989
+3	Batman	151	35	11/20/1989
+3	Batman	152	40	11/21/1989
+3	Batman	153	44	11/22/1989
+3	Batman	154	72	11/23/1989
+3	Batman	155	108	11/24/1989
+3	Batman	156	92	11/25/1989
+3	Batman	157	67	11/26/1989
+3	Batman	158	30	11/27/1989
+3	Batman	159	30	11/28/1989
+3	Batman	160	29	11/29/1989
+3	Batman	161	29	11/30/1989
+3	Batman	162	86	12/1/1989
+3	Batman	163	121	12/2/1989
+3	Batman	164	55	12/3/1989
+3	Batman	165	23	12/4/1989
+3	Batman	166	27	12/5/1989
+3	Batman	167	25	12/6/1989
+3	Batman	168	30	12/7/1989
+3	Batman	169	45	12/8/1989
+3	Batman	170	88	12/9/1989
+3	Batman	171	59	12/10/1989
+3	Batman	172	16	12/11/1989
+3	Batman	173	13	12/12/1989
+3	Batman	174	14	12/13/1989
+3	Batman	175	18	12/14/1989
+4	Beverly Hills Cop	1	No daily data	
+5	Chicago	1	4944	1/3/2003
+5	Chicago	2	6957	1/4/2003
+5	Chicago	3	4472	1/5/2003
+5	Chicago	4	1691	1/6/2003
+5	Chicago	5	1865	1/7/2003
+5	Chicago	6	1855	1/8/2003
+5	Chicago	7	1908	1/9/2003
+5	Chicago	8	4544	1/10/2003
+5	Chicago	9	6892	1/11/2003
+5	Chicago	10	4282	1/12/2003
+5	Chicago	11	1448	1/13/2003
+5	Chicago	12	1771	1/14/2003
+5	Chicago	13	1680	1/15/2003
+5	Chicago	14	1760	1/16/2003
+5	Chicago	15	3539	1/17/2003
+5	Chicago	16	5871	1/18/2003
+5	Chicago	17	4120	1/19/2003
+5	Chicago	18	3845	1/20/2003
+5	Chicago	19	1709	1/21/2003
+5	Chicago	20	1548	1/22/2003
+5	Chicago	21	1661	1/23/2003
+5	Chicago	22	4141	1/24/2003
+5	Chicago	23	6221	1/25/2003
+5	Chicago	24	2757	1/26/2003
+5	Chicago	25	1123	1/27/2003
+5	Chicago	26	1354	1/28/2003
+5	Chicago	27	1299	1/29/2003
+5	Chicago	28	1385	1/30/2003
+5	Chicago	29	3149	1/31/2003
+5	Chicago	30	5056	2/1/2003
+5	Chicago	31	3146	2/2/2003
+5	Chicago	32	774	2/3/2003
+5	Chicago	33	1026	2/4/2003
+5	Chicago	34	1019	2/5/2003
+5	Chicago	35	1010	2/6/2003
+5	Chicago	36	1606	2/7/2003
+5	Chicago	37	2719	2/8/2003
+5	Chicago	38	1540	2/9/2003
+5	Chicago	39	412	2/10/2003
+5	Chicago	40	606	2/11/2003
+5	Chicago	41	647	2/12/2003
+5	Chicago	42	652	2/13/2003
+5	Chicago	43	1762	2/14/2003
+5	Chicago	44	2280	2/15/2003
+5	Chicago	45	1548	2/16/2003
+5	Chicago	46	791	2/17/2003
+5	Chicago	47	492	2/18/2003
+5	Chicago	48	434	2/19/2003
+5	Chicago	49	475	2/20/2003
+5	Chicago	50	1092	2/21/2003
+5	Chicago	51	1561	2/22/2003
+5	Chicago	52	898	2/23/2003
+5	Chicago	53	248	2/24/2003
+5	Chicago	54	332	2/25/2003
+5	Chicago	55	307	2/26/2003
+5	Chicago	56	332	2/27/2003
+5	Chicago	57	898	2/28/2003
+5	Chicago	58	1508	3/1/2003
+5	Chicago	59	811	3/2/2003
+5	Chicago	60	261	3/3/2003
+5	Chicago	61	317	3/4/2003
+5	Chicago	62	277	3/5/2003
+5	Chicago	63	284	3/6/2003
+5	Chicago	64	691	3/7/2003
+5	Chicago	65	1199	3/8/2003
+5	Chicago	66	743	3/9/2003
+5	Chicago	67	296	3/10/2003
+5	Chicago	68	346	3/11/2003
+5	Chicago	69	329	3/12/2003
+5	Chicago	70	317	3/13/2003
+5	Chicago	71	767	3/14/2003
+5	Chicago	72	1236	3/15/2003
+5	Chicago	73	745	3/16/2003
+5	Chicago	74	243	3/17/2003
+5	Chicago	75	327	3/18/2003
+5	Chicago	76	294	3/19/2003
+5	Chicago	77	296	3/20/2003
+5	Chicago	78	698	3/21/2003
+5	Chicago	79	1142	3/22/2003
+5	Chicago	80	585	3/23/2003
+5	Chicago	81	326	3/24/2003
+5	Chicago	82	363	3/25/2003
+5	Chicago	83	331	3/26/2003
+5	Chicago	84	343	3/27/2003
+5	Chicago	85	764	3/28/2003
+5	Chicago	86	1218	3/29/2003
+5	Chicago	87	687	3/30/2003
+5	Chicago	88	207	3/31/2003
+5	Chicago	89	224	4/1/2003
+5	Chicago	90	207	4/2/2003
+5	Chicago	91	204	4/3/2003
+5	Chicago	92	614	4/4/2003
+5	Chicago	93	1012	4/5/2003
+5	Chicago	94	529	4/6/2003
+5	Chicago	95	149	4/7/2003
+5	Chicago	96	189	4/8/2003
+5	Chicago	97	185	4/9/2003
+5	Chicago	98	185	4/10/2003
+5	Chicago	99	459	4/11/2003
+5	Chicago	100	722	4/12/2003
+5	Chicago	101	351	4/13/2003
+5	Chicago	102	139	4/14/2003
+5	Chicago	103	158	4/15/2003
+5	Chicago	104	159	4/16/2003
+5	Chicago	105	196	4/17/2003
+5	Chicago	106	510	4/18/2003
+6	Crash	1	1513	5/6/2005
+6	Crash	2	1947	5/7/2005
+6	Crash	3	1426	5/8/2005
+6	Crash	4	484	5/9/2005
+6	Crash	5	455	5/10/2005
+6	Crash	6	463	5/11/2005
+6	Crash	7	467	5/12/2005
+6	Crash	8	1119	5/13/2005
+6	Crash	9	1596	5/14/2005
+6	Crash	10	1066	5/15/2005
+6	Crash	11	368	5/16/2005
+6	Crash	12	358	5/17/2005
+6	Crash	13	312	5/18/2005
+6	Crash	14	289	5/19/2005
+6	Crash	15	818	5/20/2005
+6	Crash	16	1221	5/21/2005
+6	Crash	17	872	5/22/2005
+6	Crash	18	366	5/23/2005
+6	Crash	19	303	5/24/2005
+6	Crash	20	294	5/25/2005
+6	Crash	21	343	5/26/2005
+6	Crash	22	759	5/27/2005
+6	Crash	23	1057	5/28/2005
+6	Crash	24	956	5/29/2005
+6	Crash	25	834	5/30/2005
+6	Crash	26	299	5/31/2005
+6	Crash	27	285	6/1/2005
+6	Crash	28	290	6/2/2005
+6	Crash	29	723	6/3/2005
+6	Crash	30	1028	6/4/2005
+6	Crash	31	725	6/5/2005
+6	Crash	32	263	6/6/2005
+6	Crash	33	295	6/7/2005
+6	Crash	34	297	6/8/2005
+6	Crash	35	275	6/9/2005
+6	Crash	36	411	6/10/2005
+6	Crash	37	869	6/11/2005
+6	Crash	38	601	6/12/2005
+7	"Departed, The"	1	2880	10/6/2006
+7	"Departed, The"	2	3561	10/7/2006
+7	"Departed, The"	3	2471	10/8/2006
+7	"Departed, The"	4	1283	10/9/2006
+7	"Departed, The"	5	821	10/10/2006
+7	"Departed, The"	6	794	10/11/2006
+7	"Departed, The"	7	768	10/12/2006
+7	"Departed, The"	8	1894	10/13/2006
+7	"Departed, The"	9	2694	10/14/2006
+7	"Departed, The"	10	1721	10/15/2006
+7	"Departed, The"	11	536	10/16/2006
+7	"Departed, The"	12	581	10/17/2006
+7	"Departed, The"	13	516	10/18/2006
+7	"Departed, The"	14	517	10/19/2006
+7	"Departed, The"	15	1384	10/20/2006
+7	"Departed, The"	16	1922	10/21/2006
+7	"Departed, The"	17	1174	10/22/2006
+7	"Departed, The"	18	350	10/23/2006
+7	"Departed, The"	19	374	10/24/2006
+7	"Departed, The"	20	355	10/25/2006
+7	"Departed, The"	21	357	10/26/2006
+7	"Departed, The"	22	941	10/27/2006
+7	"Departed, The"	23	1547	10/28/2006
+7	"Departed, The"	24	849	10/29/2006
+7	"Departed, The"	25	245	10/30/2006
+7	"Departed, The"	26	274	10/31/2006
+7	"Departed, The"	27	281	11/1/2006
+7	"Departed, The"	28	279	11/2/2006
+7	"Departed, The"	29	832	11/3/2006
+7	"Departed, The"	30	1293	11/4/2006
+7	"Departed, The"	31	648	11/5/2006
+7	"Departed, The"	32	217	11/6/2006
+7	"Departed, The"	33	243	11/7/2006
+7	"Departed, The"	34	221	11/8/2006
+7	"Departed, The"	35	229	11/9/2006
+7	"Departed, The"	36	727	11/10/2006
+7	"Departed, The"	37	1053	11/11/2006
+7	"Departed, The"	38	557	11/12/2006
+7	"Departed, The"	39	188	11/13/2006
+7	"Departed, The"	40	179	11/14/2006
+7	"Departed, The"	41	166	11/15/2006
+7	"Departed, The"	42	169	11/16/2006
+7	"Departed, The"	43	489	11/17/2006
+7	"Departed, The"	44	710	11/18/2006
+7	"Departed, The"	45	406	11/19/2006
+7	"Departed, The"	46	157	11/20/2006
+7	"Departed, The"	47	197	11/21/2006
+7	"Departed, The"	48	389	12/25/2006
+7	"Departed, The"	49	472	1/15/2007
+7	"Departed, The"	50	599	1/26/2007
+7	"Departed, The"	51	1032	1/27/2007
+7	"Departed, The"	52	675	1/28/2007
+7	"Departed, The"	53	174	1/29/2007
+7	"Departed, The"	54	192	1/30/2007
+7	"Departed, The"	55	181	1/31/2007
+7	"Departed, The"	56	181	2/1/2007
+7	"Departed, The"	57	516	2/2/2007
+7	"Departed, The"	58	149	2/5/2007
+7	"Departed, The"	59	141	2/6/2007
+7	"Departed, The"	60	138	2/7/2007
+7	"Departed, The"	61	136	2/8/2007
+7	"Departed, The"	62	188	2/19/2007
+8	"Empire Strikes Back, The"	1	10582	5/21/1980
+8	"Empire Strikes Back, The"	2	7897	5/22/1980
+8	"Empire Strikes Back, The"	3	11090	5/23/1980
+8	"Empire Strikes Back, The"	4	13771	5/24/1980
+8	"Empire Strikes Back, The"	5	14053	5/25/1980
+8	"Empire Strikes Back, The"	6	11947	5/26/1980
+8	"Empire Strikes Back, The"	7	6792	5/27/1980
+9	ET	1	1563	3/22/2002
+9	ET	2	1839	3/23/2002
+9	ET	3	1219	3/24/2002
+9	ET	4	305	3/25/2002
+9	ET	5	330	3/26/2002
+9	ET	6	310	3/27/2002
+9	ET	7	391	3/28/2002
+9	ET	8	770	3/29/2002
+9	ET	9	775	3/30/2002
+9	ET	10	505	3/31/2002
+9	ET	11	305	4/1/2002
+9	ET	12	220	4/2/2002
+9	ET	13	225	4/3/2002
+9	ET	14	205	4/4/2002
+9	ET	15	381	4/5/2002
+9	ET	16	617	4/6/2002
+9	ET	17	436	4/7/2002
+9	ET	18	65	4/8/2002
+9	ET	19	75	4/9/2002
+9	ET	20	65	4/10/2002
+9	ET	21	60	4/11/2002
+10	Forrest Gump	NA	NA	NA
+11	Ghost Busters	NA	NA	NA
+12	Gladiator	1	4201	5/5/2000
+12	Gladiator	2	5097	5/6/2000
+12	Gladiator	3	3427	5/7/2000
+12	Gladiator	4	1277	5/8/2000
+12	Gladiator	5	1316	5/9/2000
+12	Gladiator	6	1159	5/10/2000
+12	Gladiator	7	1080	5/11/2000
+12	Gladiator	8	2581	5/12/2000
+12	Gladiator	9	3744	5/13/2000
+12	Gladiator	10	2368	5/14/2000
+12	Gladiator	11	851	5/15/2000
+12	Gladiator	12	573	5/16/2000
+12	Gladiator	13	773	5/17/2000
+12	Gladiator	14	767	5/18/2000
+12	Gladiator	15	1822	5/19/2000
+12	Gladiator	16	2511	5/20/2000
+12	Gladiator	17	1932	5/21/2000
+12	Gladiator	18	732	5/22/2000
+12	Gladiator	19	626	5/23/2000
+12	Gladiator	20	436	5/24/2000
+12	Gladiator	21	440	5/25/2000
+12	Gladiator	22	991	5/26/2000
+12	Gladiator	23	1715	5/27/2000
+12	Gladiator	24	1610	5/28/2000
+12	Gladiator	25	1140	5/29/2000
+12	Gladiator	26	402	5/30/2000
+12	Gladiator	27	364	5/31/2000
+12	Gladiator	28	359	6/1/2000
+12	Gladiator	29	676	6/2/2000
+12	Gladiator	30	1114	6/3/2000
+12	Gladiator	31	813	6/4/2000
+12	Gladiator	32	335	6/5/2000
+12	Gladiator	33	395	6/6/2000
+12	Gladiator	34	295	6/7/2000
+12	Gladiator	35	330	6/8/2000
+12	Gladiator	36	664	6/9/2000
+12	Gladiator	37	1094	6/10/2000
+12	Gladiator	38	819	6/11/2000
+12	Gladiator	39	321	6/12/2000
+12	Gladiator	40	348	6/13/2000
+12	Gladiator	41	296	6/14/2000
+12	Gladiator	42	313	6/15/2000
+12	Gladiator	43	541	6/16/2000
+12	Gladiator	44	903	6/17/2000
+12	Gladiator	45	848	6/18/2000
+12	Gladiator	46	259	6/19/2000
+12	Gladiator	47	308	6/20/2000
+12	Gladiator	48	286	6/21/2000
+12	Gladiator	49	290	6/22/2000
+12	Gladiator	50	537	6/23/2000
+12	Gladiator	51	877	6/24/2000
+12	Gladiator	52	692	6/25/2000
+12	Gladiator	53	268	6/26/2000
+12	Gladiator	54	298	6/27/2000
+12	Gladiator	55	223	6/28/2000
+12	Gladiator	56	254	6/29/2000
+12	Gladiator	57	390	6/30/2000
+12	Gladiator	58	588	7/1/2000
+12	Gladiator	59	744	7/2/2000
+12	Gladiator	60	602	7/3/2000
+12	Gladiator	61	454	7/4/2000
+12	Gladiator	62	242	7/5/2000
+12	Gladiator	63	251	7/6/2000
+12	Gladiator	64	540	7/9/2000
+12	Gladiator	65	211	7/10/2000
+12	Gladiator	66	229	7/11/2000
+12	Gladiator	67	202	7/12/2000
+12	Gladiator	68	218	7/13/2000
+12	Gladiator	69	460	7/16/2000
+12	Gladiator	70	193	7/17/2000
+12	Gladiator	71	228	7/18/2000
+12	Gladiator	72	211	7/19/2000
+12	Gladiator	73	203	7/20/2000
+12	Gladiator	74	451	7/23/2000
+12	Gladiator	75	186	7/24/2000
+12	Gladiator	76	210	7/25/2000
+12	Gladiator	77	197	7/26/2000
+12	Gladiator	78	202	7/27/2000
+12	Gladiator	79	419	7/30/2000
+12	Gladiator	80	180	7/31/2000
+12	Gladiator	81	223	8/1/2000
+12	Gladiator	82	187	8/2/2000
+12	Gladiator	83	199	8/3/2000
+12	Gladiator	84	366	8/6/2000
+12	Gladiator	85	182	8/7/2000
+12	Gladiator	86	182	8/8/2000
+12	Gladiator	87	166	8/9/2000
+12	Gladiator	88	170	8/10/2000
+12	Gladiator	89	299	8/13/2000
+12	Gladiator	90	138	8/14/2000
+12	Gladiator	91	160	8/15/2000
+12	Gladiator	92	141	8/16/2000
+12	Gladiator	93	158	8/17/2000
+12	Gladiator	94	77	9/11/2000
+12	Gladiator	95	145	9/12/2000
+12	Gladiator	96	93	9/13/2000
+12	Gladiator	97	96	9/14/2000
+12	Gladiator	98	108	9/18/2000
+12	Gladiator	99	100	9/19/2000
+12	Gladiator	100	77	9/20/2000
+12	Gladiator	101	82	9/21/2000
+13	Gods and Monsters	NA	NA	NA
+14	"Good Girl, The"	1	11142	8/9/2002
+14	"Good Girl, The"	2	14226	8/10/2002
+14	"Good Girl, The"	3	12542	8/11/2002
+14	"Good Girl, The"	4	4076	8/16/2002
+14	"Good Girl, The"	5	5595	8/17/2002
+14	"Good Girl, The"	6	4339	8/18/2002
+14	"Good Girl, The"	7	2390	8/23/2002
+14	"Good Girl, The"	8	3361	8/24/2002
+14	"Good Girl, The"	9	2031	8/25/2002
+14	"Good Girl, The"	10	1169	8/30/2002
+14	"Good Girl, The"	11	1532	8/31/2002
+14	"Good Girl, The"	12	1544	9/1/2002
+14	"Good Girl, The"	13	1327	9/2/2002
+14	"Good Girl, The"	14	334	9/3/2002
+14	"Good Girl, The"	15	313	9/4/2002
+14	"Good Girl, The"	16	319	9/5/2002
+14	"Good Girl, The"	17	590	9/8/2002
+14	"Good Girl, The"	18	203	9/9/2002
+14	"Good Girl, The"	19	235	9/10/2002
+14	"Good Girl, The"	20	228	9/11/2002
+14	"Good Girl, The"	21	224	9/12/2002
+14	"Good Girl, The"	22	170	9/17/2002
+14	"Good Girl, The"	23	166	9/18/2002
+14	"Good Girl, The"	24	354	9/20/2002
+14	"Good Girl, The"	25	523	9/21/2002
+14	"Good Girl, The"	26	287	9/22/2002
+14	"Good Girl, The"	27	284	9/27/2002
+14	"Good Girl, The"	28	399	9/28/2002
+14	"Good Girl, The"	29	212	9/29/2002
+14	"Good Girl, The"	30	186	10/4/2002
+14	"Good Girl, The"	31	276	10/5/2002
+14	"Good Girl, The"	32	149	10/6/2002
+15	Harry Potter 1: Sorcerer's Stone	1	8805	11/16/2001
+15	Harry Potter 1: Sorcerer's Stone	2	9127	11/17/2001
+15	Harry Potter 1: Sorcerer's Stone	3	6658	11/18/2001
+15	Harry Potter 1: Sorcerer's Stone	4	1809	11/19/2001
+15	Harry Potter 1: Sorcerer's Stone	5	2084	11/20/2001
+15	Harry Potter 1: Sorcerer's Stone	6	3446	11/21/2001
+15	Harry Potter 1: Sorcerer's Stone	7	3355	11/22/2001
+15	Harry Potter 1: Sorcerer's Stone	8	6260	11/23/2001
+15	Harry Potter 1: Sorcerer's Stone	9	5743	11/24/2001
+15	Harry Potter 1: Sorcerer's Stone	10	3653	11/25/2001
+15	Harry Potter 1: Sorcerer's Stone	11	688	11/26/2001
+15	Harry Potter 1: Sorcerer's Stone	12	649	11/27/2001
+15	Harry Potter 1: Sorcerer's Stone	13	563	11/28/2001
+15	Harry Potter 1: Sorcerer's Stone	14	565	11/29/2001
+15	Harry Potter 1: Sorcerer's Stone	15	1608	11/30/2001
+15	Harry Potter 1: Sorcerer's Stone	16	2820	12/1/2001
+15	Harry Potter 1: Sorcerer's Stone	17	1939	12/2/2001
+15	Harry Potter 1: Sorcerer's Stone	18	343	12/3/2001
+15	Harry Potter 1: Sorcerer's Stone	19	384	12/4/2001
+15	Harry Potter 1: Sorcerer's Stone	20	355	12/5/2001
+15	Harry Potter 1: Sorcerer's Stone	21	337	12/6/2001
+15	Harry Potter 1: Sorcerer's Stone	22	959	12/7/2001
+15	Harry Potter 1: Sorcerer's Stone	23	1740	12/8/2001
+15	Harry Potter 1: Sorcerer's Stone	24	1204	12/9/2001
+15	Harry Potter 1: Sorcerer's Stone	25	236	12/10/2001
+15	Harry Potter 1: Sorcerer's Stone	26	281	12/11/2001
+15	Harry Potter 1: Sorcerer's Stone	27	242	12/12/2001
+15	Harry Potter 1: Sorcerer's Stone	28	246	12/13/2001
+15	Harry Potter 1: Sorcerer's Stone	29	649	12/14/2001
+15	Harry Potter 1: Sorcerer's Stone	30	1275	12/15/2001
+15	Harry Potter 1: Sorcerer's Stone	31	909	12/16/2001
+15	Harry Potter 1: Sorcerer's Stone	32	237	12/17/2001
+15	Harry Potter 1: Sorcerer's Stone	33	269	12/18/2001
+15	Harry Potter 1: Sorcerer's Stone	34	266	12/19/2001
+15	Harry Potter 1: Sorcerer's Stone	35	451	12/20/2001
+15	Harry Potter 1: Sorcerer's Stone	36	526	12/21/2001
+15	Harry Potter 1: Sorcerer's Stone	37	832	12/22/2001
+15	Harry Potter 1: Sorcerer's Stone	38	815	12/23/2001
+15	Harry Potter 1: Sorcerer's Stone	39	491	12/24/2001
+15	Harry Potter 1: Sorcerer's Stone	40	491	12/25/2001
+15	Harry Potter 1: Sorcerer's Stone	41	1025	12/26/2001
+15	Harry Potter 1: Sorcerer's Stone	42	1059	12/27/2001
+15	Harry Potter 1: Sorcerer's Stone	43	1094	12/28/2001
+15	Harry Potter 1: Sorcerer's Stone	44	1156	12/29/2001
+15	Harry Potter 1: Sorcerer's Stone	45	1061	12/30/2001
+15	Harry Potter 1: Sorcerer's Stone	46	870	12/31/2001
+15	Harry Potter 1: Sorcerer's Stone	47	930	1/1/2002
+15	Harry Potter 1: Sorcerer's Stone	48	506	1/2/2002
+15	Harry Potter 1: Sorcerer's Stone	49	398	1/3/2002
+15	Harry Potter 1: Sorcerer's Stone	50	686	1/4/2002
+15	Harry Potter 1: Sorcerer's Stone	51	939	1/5/2002
+15	Harry Potter 1: Sorcerer's Stone	52	637	1/6/2002
+15	Harry Potter 1: Sorcerer's Stone	53	125	1/7/2002
+15	Harry Potter 1: Sorcerer's Stone	54	128	1/8/2002
+15	Harry Potter 1: Sorcerer's Stone	55	107	1/9/2002
+15	Harry Potter 1: Sorcerer's Stone	56	100	1/10/2002
+15	Harry Potter 1: Sorcerer's Stone	57	347	1/11/2002
+15	Harry Potter 1: Sorcerer's Stone	58	748	1/12/2002
+15	Harry Potter 1: Sorcerer's Stone	59	559	1/13/2002
+15	Harry Potter 1: Sorcerer's Stone	60	102	1/14/2002
+15	Harry Potter 1: Sorcerer's Stone	61	112	1/15/2002
+15	Harry Potter 1: Sorcerer's Stone	62	99	1/16/2002
+15	Harry Potter 1: Sorcerer's Stone	63	100	1/17/2002
+15	Harry Potter 1: Sorcerer's Stone	64	296	1/18/2002
+15	Harry Potter 1: Sorcerer's Stone	65	592	1/19/2002
+15	Harry Potter 1: Sorcerer's Stone	66	535	1/20/2002
+16	Harry Potter 2: Chamber of Secrets	1	8048	11/15/2002
+16	Harry Potter 2: Chamber of Secrets	2	9292	11/16/2002
+16	Harry Potter 2: Chamber of Secrets	3	6657	11/17/2002
+16	Harry Potter 2: Chamber of Secrets	4	1445	11/18/2002
+16	Harry Potter 2: Chamber of Secrets	5	1288	11/19/2002
+16	Harry Potter 2: Chamber of Secrets	6	1095	11/20/2002
+16	Harry Potter 2: Chamber of Secrets	7	999	11/21/2002
+16	Harry Potter 2: Chamber of Secrets	8	2989	11/22/2002
+16	Harry Potter 2: Chamber of Secrets	9	5080	11/23/2002
+16	Harry Potter 2: Chamber of Secrets	10	3399	11/24/2002
+16	Harry Potter 2: Chamber of Secrets	11	696	11/25/2002
+16	Harry Potter 2: Chamber of Secrets	12	947	11/26/2002
+16	Harry Potter 2: Chamber of Secrets	13	1742	11/27/2002
+16	Harry Potter 2: Chamber of Secrets	14	1961	11/28/2002
+16	Harry Potter 2: Chamber of Secrets	15	3633	11/29/2002
+16	Harry Potter 2: Chamber of Secrets	16	3266	11/30/2002
+16	Harry Potter 2: Chamber of Secrets	17	1823	12/1/2002
+16	Harry Potter 2: Chamber of Secrets	18	285	12/2/2002
+16	Harry Potter 2: Chamber of Secrets	19	259	12/3/2002
+16	Harry Potter 2: Chamber of Secrets	20	227	12/4/2002
+16	Harry Potter 2: Chamber of Secrets	21	241	12/5/2002
+16	Harry Potter 2: Chamber of Secrets	22	802	12/6/2002
+16	Harry Potter 2: Chamber of Secrets	23	1369	12/7/2002
+16	Harry Potter 2: Chamber of Secrets	24	843	12/8/2002
+16	Harry Potter 2: Chamber of Secrets	25	166	12/9/2002
+16	Harry Potter 2: Chamber of Secrets	26	185	12/10/2002
+16	Harry Potter 2: Chamber of Secrets	27	171	12/11/2002
+16	Harry Potter 2: Chamber of Secrets	28	164	12/12/2002
+16	Harry Potter 2: Chamber of Secrets	29	472	12/13/2002
+16	Harry Potter 2: Chamber of Secrets	30	955	12/14/2002
+16	Harry Potter 2: Chamber of Secrets	31	664	12/15/2002
+16	Harry Potter 2: Chamber of Secrets	32	148	12/16/2002
+16	Harry Potter 2: Chamber of Secrets	33	168	12/17/2002
+16	Harry Potter 2: Chamber of Secrets	34	143	12/18/2002
+16	Harry Potter 2: Chamber of Secrets	35	146	12/19/2002
+16	Harry Potter 2: Chamber of Secrets	36	328	12/20/2002
+16	Harry Potter 2: Chamber of Secrets	37	555	12/21/2002
+16	Harry Potter 2: Chamber of Secrets	38	603	12/22/2002
+16	Harry Potter 2: Chamber of Secrets	39	486	12/23/2002
+16	Harry Potter 2: Chamber of Secrets	40	306	12/24/2002
+16	Harry Potter 2: Chamber of Secrets	41	379	12/25/2002
+16	Harry Potter 2: Chamber of Secrets	42	751	12/26/2002
+16	Harry Potter 2: Chamber of Secrets	43	838	12/27/2002
+16	Harry Potter 2: Chamber of Secrets	44	891	12/28/2002
+16	Harry Potter 2: Chamber of Secrets	45	823	12/29/2002
+16	Harry Potter 2: Chamber of Secrets	46	727	12/30/2002
+16	Harry Potter 2: Chamber of Secrets	47	689	12/31/2002
+16	Harry Potter 2: Chamber of Secrets	48	850	1/1/2003
+16	Harry Potter 2: Chamber of Secrets	49	578	1/2/2003
+16	Harry Potter 2: Chamber of Secrets	50	700	1/3/2003
+16	Harry Potter 2: Chamber of Secrets	51	918	1/4/2003
+16	Harry Potter 2: Chamber of Secrets	52	684	1/5/2003
+16	Harry Potter 2: Chamber of Secrets	53	145	1/6/2003
+16	Harry Potter 2: Chamber of Secrets	54	711	1/11/2003
+16	Harry Potter 2: Chamber of Secrets	55	552	1/12/2003
+17	Harry Potter 3: Prisoner of Azkaban	1	9927	6/4/2004
+17	Harry Potter 3: Prisoner of Azkaban	2	8170	6/5/2004
+17	Harry Potter 3: Prisoner of Azkaban	3	6206	6/6/2004
+17	Harry Potter 3: Prisoner of Azkaban	4	2186	6/7/2004
+17	Harry Potter 3: Prisoner of Azkaban	5	1880	6/8/2004
+17	Harry Potter 3: Prisoner of Azkaban	6	1784	6/9/2004
+17	Harry Potter 3: Prisoner of Azkaban	7	1770	6/10/2004
+17	Harry Potter 3: Prisoner of Azkaban	8	2853	6/11/2004
+17	Harry Potter 3: Prisoner of Azkaban	9	3513	6/12/2004
+17	Harry Potter 3: Prisoner of Azkaban	10	2601	6/13/2004
+17	Harry Potter 3: Prisoner of Azkaban	11	1035	6/14/2004
+17	Harry Potter 3: Prisoner of Azkaban	12	971	6/15/2004
+17	Harry Potter 3: Prisoner of Azkaban	13	940	6/16/2004
+17	Harry Potter 3: Prisoner of Azkaban	14	926	6/17/2004
+17	Harry Potter 3: Prisoner of Azkaban	15	1393	6/18/2004
+17	Harry Potter 3: Prisoner of Azkaban	16	1868	6/19/2004
+17	Harry Potter 3: Prisoner of Azkaban	17	1476	6/20/2004
+17	Harry Potter 3: Prisoner of Azkaban	18	622	6/21/2004
+17	Harry Potter 3: Prisoner of Azkaban	19	685	6/22/2004
+17	Harry Potter 3: Prisoner of Azkaban	20	566	6/23/2004
+17	Harry Potter 3: Prisoner of Azkaban	21	588	6/24/2004
+17	Harry Potter 3: Prisoner of Azkaban	22	999	6/25/2004
+17	Harry Potter 3: Prisoner of Azkaban	23	1313	6/26/2004
+17	Harry Potter 3: Prisoner of Azkaban	24	990	6/27/2004
+17	Harry Potter 3: Prisoner of Azkaban	25	463	6/28/2004
+17	Harry Potter 3: Prisoner of Azkaban	26	458	6/29/2004
+17	Harry Potter 3: Prisoner of Azkaban	27	401	6/30/2004
+17	Harry Potter 3: Prisoner of Azkaban	28	433	7/1/2004
+17	Harry Potter 3: Prisoner of Azkaban	29	703	7/2/2004
+17	Harry Potter 3: Prisoner of Azkaban	30	847	7/3/2004
+17	Harry Potter 3: Prisoner of Azkaban	31	629	7/4/2004
+17	Harry Potter 3: Prisoner of Azkaban	32	955	7/5/2004
+17	Harry Potter 3: Prisoner of Azkaban	33	398	7/6/2004
+17	Harry Potter 3: Prisoner of Azkaban	34	349	7/7/2004
+17	Harry Potter 3: Prisoner of Azkaban	35	362	7/8/2004
+17	Harry Potter 3: Prisoner of Azkaban	36	788	7/10/2004
+17	Harry Potter 3: Prisoner of Azkaban	37	658	7/11/2004
+17	Harry Potter 3: Prisoner of Azkaban	38	344	7/12/2004
+17	Harry Potter 3: Prisoner of Azkaban	39	360	7/13/2004
+17	Harry Potter 3: Prisoner of Azkaban	40	353	7/14/2004
+17	Harry Potter 3: Prisoner of Azkaban	41	337	7/15/2004
+17	Harry Potter 3: Prisoner of Azkaban	42	502	7/16/2004
+17	Harry Potter 3: Prisoner of Azkaban	43	714	7/17/2004
+17	Harry Potter 3: Prisoner of Azkaban	44	673	7/18/2004
+17	Harry Potter 3: Prisoner of Azkaban	45	307	7/20/2004
+17	Harry Potter 3: Prisoner of Azkaban	46	292	7/21/2004
+17	Harry Potter 3: Prisoner of Azkaban	47	295	7/22/2004
+17	Harry Potter 3: Prisoner of Azkaban	48	397	7/23/2004
+17	Harry Potter 3: Prisoner of Azkaban	49	673	7/24/2004
+17	Harry Potter 3: Prisoner of Azkaban	50	549	7/25/2004
+18	Harry Potter 4: Goblet of Fire	1	10399	11/18/2005
+18	Harry Potter 4: Goblet of Fire	2	9518	11/19/2005
+18	Harry Potter 4: Goblet of Fire	3	6700	11/20/2005
+18	Harry Potter 4: Goblet of Fire	4	2088	11/21/2005
+18	Harry Potter 4: Goblet of Fire	5	2333	11/22/2005
+18	Harry Potter 4: Goblet of Fire	6	3663	11/23/2005
+18	Harry Potter 4: Goblet of Fire	7	3216	11/24/2005
+18	Harry Potter 4: Goblet of Fire	8	5902	11/25/2005
+18	Harry Potter 4: Goblet of Fire	9	5237	11/26/2005
+18	Harry Potter 4: Goblet of Fire	10	3046	11/27/2005
+18	Harry Potter 4: Goblet of Fire	11	633	11/28/2005
+18	Harry Potter 4: Goblet of Fire	12	556	11/29/2005
+18	Harry Potter 4: Goblet of Fire	13	505	11/30/2005
+18	Harry Potter 4: Goblet of Fire	14	478	12/1/2005
+18	Harry Potter 4: Goblet of Fire	15	1392	12/2/2005
+18	Harry Potter 4: Goblet of Fire	16	2303	12/3/2005
+18	Harry Potter 4: Goblet of Fire	17	1457	12/4/2005
+18	Harry Potter 4: Goblet of Fire	18	295	12/5/2005
+18	Harry Potter 4: Goblet of Fire	19	299	12/6/2005
+18	Harry Potter 4: Goblet of Fire	20	291	12/7/2005
+18	Harry Potter 4: Goblet of Fire	21	291	12/8/2005
+18	Harry Potter 4: Goblet of Fire	22	725	12/9/2005
+18	Harry Potter 4: Goblet of Fire	23	1228	12/10/2005
+18	Harry Potter 4: Goblet of Fire	24	801	12/11/2005
+18	Harry Potter 4: Goblet of Fire	25	186	12/12/2005
+18	Harry Potter 4: Goblet of Fire	26	189	12/13/2005
+18	Harry Potter 4: Goblet of Fire	27	160	12/14/2005
+18	Harry Potter 4: Goblet of Fire	28	157	12/15/2005
+18	Harry Potter 4: Goblet of Fire	29	470	12/16/2005
+18	Harry Potter 4: Goblet of Fire	30	791	12/17/2005
+18	Harry Potter 4: Goblet of Fire	31	608	12/18/2005
+18	Harry Potter 4: Goblet of Fire	32	278	12/19/2005
+18	Harry Potter 4: Goblet of Fire	33	315	12/20/2005
+18	Harry Potter 4: Goblet of Fire	34	316	12/21/2005
+18	Harry Potter 4: Goblet of Fire	35	384	12/22/2005
+18	Harry Potter 4: Goblet of Fire	36	595	12/23/2005
+18	Harry Potter 4: Goblet of Fire	37	397	12/24/2005
+18	Harry Potter 4: Goblet of Fire	38	555	12/25/2005
+18	Harry Potter 4: Goblet of Fire	39	1023	12/26/2005
+18	Harry Potter 4: Goblet of Fire	40	875	12/27/2005
+18	Harry Potter 4: Goblet of Fire	41	818	12/28/2005
+18	Harry Potter 4: Goblet of Fire	42	809	12/29/2005
+18	Harry Potter 4: Goblet of Fire	43	892	12/30/2005
+18	Harry Potter 4: Goblet of Fire	44	763	12/31/2005
+18	Harry Potter 4: Goblet of Fire	45	799	1/1/2006
+18	Harry Potter 4: Goblet of Fire	46	842	1/2/2006
+18	Harry Potter 4: Goblet of Fire	47	277	1/3/2006
+19	Harry Potter 5: Order of the Phoenix	1	10579	7/11/2007
+19	Harry Potter 5: Order of the Phoenix	2	4395	7/12/2007
+19	Harry Potter 5: Order of the Phoenix	3	6031	7/13/2007
+19	Harry Potter 5: Order of the Phoenix	4	6607	7/14/2007
+19	Harry Potter 5: Order of the Phoenix	5	5357	7/15/2007
+19	Harry Potter 5: Order of the Phoenix	6	2431	7/16/2007
+19	Harry Potter 5: Order of the Phoenix	7	2140	7/17/2007
+19	Harry Potter 5: Order of the Phoenix	8	1969	7/18/2007
+19	Harry Potter 5: Order of the Phoenix	9	1778	7/19/2007
+19	Harry Potter 5: Order of the Phoenix	10	2384	7/20/2007
+19	Harry Potter 5: Order of the Phoenix	11	2866	7/21/2007
+19	Harry Potter 5: Order of the Phoenix	12	2337	7/22/2007
+19	Harry Potter 5: Order of the Phoenix	13	1124	7/23/2007
+19	Harry Potter 5: Order of the Phoenix	14	1027	7/24/2007
+19	Harry Potter 5: Order of the Phoenix	15	914	7/25/2007
+19	Harry Potter 5: Order of the Phoenix	16	865	7/26/2007
+19	Harry Potter 5: Order of the Phoenix	17	1265	7/27/2007
+19	Harry Potter 5: Order of the Phoenix	18	1766	7/28/2007
+19	Harry Potter 5: Order of the Phoenix	19	1397	7/29/2007
+19	Harry Potter 5: Order of the Phoenix	20	609	7/30/2007
+19	Harry Potter 5: Order of the Phoenix	21	578	7/31/2007
+19	Harry Potter 5: Order of the Phoenix	22	541	8/1/2007
+19	Harry Potter 5: Order of the Phoenix	23	536	8/2/2007
+19	Harry Potter 5: Order of the Phoenix	24	852	8/3/2007
+19	Harry Potter 5: Order of the Phoenix	25	1212	8/4/2007
+19	Harry Potter 5: Order of the Phoenix	26	983	8/5/2007
+19	Harry Potter 5: Order of the Phoenix	27	521	8/6/2007
+19	Harry Potter 5: Order of the Phoenix	28	456	8/7/2007
+19	Harry Potter 5: Order of the Phoenix	29	430	8/8/2007
+19	Harry Potter 5: Order of the Phoenix	30	382	8/9/2007
+19	Harry Potter 5: Order of the Phoenix	31	609	8/10/2007
+19	Harry Potter 5: Order of the Phoenix	32	808	8/11/2007
+19	Harry Potter 5: Order of the Phoenix	33	684	8/12/2007
+19	Harry Potter 5: Order of the Phoenix	34	302	8/13/2007
+19	Harry Potter 5: Order of the Phoenix	35	299	8/14/2007
+19	Harry Potter 5: Order of the Phoenix	36	286	8/15/2007
+19	Harry Potter 5: Order of the Phoenix	37	296	8/16/2007
+19	Harry Potter 5: Order of the Phoenix	38	470	8/17/2007
+19	Harry Potter 5: Order of the Phoenix	39	744	8/18/2007
+19	Harry Potter 5: Order of the Phoenix	40	657	8/19/2007
+19	Harry Potter 5: Order of the Phoenix	41	284	8/20/2007
+19	Harry Potter 5: Order of the Phoenix	42	286	8/21/2007
+19	Harry Potter 5: Order of the Phoenix	43	247	8/22/2007
+19	Harry Potter 5: Order of the Phoenix	44	241	8/23/2007
+19	Harry Potter 5: Order of the Phoenix	45	419	8/24/2007
+19	Harry Potter 5: Order of the Phoenix	46	201	8/27/2007
+19	Harry Potter 5: Order of the Phoenix	47	198	8/28/2007
+19	Harry Potter 5: Order of the Phoenix	48	184	8/29/2007
+19	Harry Potter 5: Order of the Phoenix	49	188	8/30/2007
+19	Harry Potter 5: Order of the Phoenix	50	671	9/3/2007
+20	Home Alone	NA	NA	NA
+21	In the Company of Men	NA	NA	NA
+22	Independence Day	NA	NA	NA
+23	Jurassic Park	NA	NA	NA
+24	"Last Mimzy, The"	1	961	3/23/2007
+24	"Last Mimzy, The"	2	1458	3/24/2007
+24	"Last Mimzy, The"	3	895	3/25/2007
+24	"Last Mimzy, The"	4	206	3/26/2007
+24	"Last Mimzy, The"	5	194	3/27/2007
+24	"Last Mimzy, The"	6	186	3/28/2007
+24	"Last Mimzy, The"	7	169	3/29/2007
+24	"Last Mimzy, The"	8	331	3/30/2007
+24	"Last Mimzy, The"	9	530	3/31/2007
+24	"Last Mimzy, The"	10	398	4/1/2007
+24	"Last Mimzy, The"	11	114	4/2/2007
+24	"Last Mimzy, The"	12	124	4/3/2007
+24	"Last Mimzy, The"	13	118	4/4/2007
+24	"Last Mimzy, The"	14	82	4/5/2007
+25	"Lion King, The"	NA	NA	NA
+26	Lord of the Rings: Return	1	9303	12/17/2003
+26	Lord of the Rings: Return	2	4596	12/18/2003
+26	Lord of the Rings: Return	3	5890	12/19/2003
+26	Lord of the Rings: Return	4	7424	12/20/2003
+26	Lord of the Rings: Return	5	6299	12/21/2003
+26	Lord of the Rings: Return	6	3663	12/22/2003
+26	Lord of the Rings: Return	7	3369	12/23/2003
+26	Lord of the Rings: Return	8	2037	12/24/2003
+26	Lord of the Rings: Return	9	3777	12/25/2003
+26	Lord of the Rings: Return	10	5172	12/26/2003
+26	Lord of the Rings: Return	11	4658	12/27/2003
+26	Lord of the Rings: Return	12	3834	12/28/2003
+26	Lord of the Rings: Return	13	2833	12/29/2003
+26	Lord of the Rings: Return	14	2597	12/30/2003
+26	Lord of the Rings: Return	15	2025	12/31/2003
+26	Lord of the Rings: Return	16	3227	1/1/2004
+26	Lord of the Rings: Return	17	2863	1/2/2004
+26	Lord of the Rings: Return	18	2853	1/3/2004
+26	Lord of the Rings: Return	19	1894	1/4/2004
+26	Lord of the Rings: Return	20	643	1/5/2004
+26	Lord of the Rings: Return	21	589	1/6/2004
+26	Lord of the Rings: Return	22	519	1/7/2004
+26	Lord of the Rings: Return	23	446	1/8/2004
+26	Lord of the Rings: Return	24	1019	1/9/2004
+26	Lord of the Rings: Return	25	1823	1/10/2004
+26	Lord of the Rings: Return	26	1159	1/11/2004
+26	Lord of the Rings: Return	27	333	1/12/2004
+26	Lord of the Rings: Return	28	345	1/13/2004
+26	Lord of the Rings: Return	29	299	1/14/2004
+26	Lord of the Rings: Return	30	293	1/15/2004
+26	Lord of the Rings: Return	31	791	1/16/2004
+26	Lord of the Rings: Return	32	1537	1/17/2004
+26	Lord of the Rings: Return	33	1075	1/18/2004
+26	Lord of the Rings: Return	34	742	1/19/2004
+26	Lord of the Rings: Return	35	254	1/20/2004
+26	Lord of the Rings: Return	36	199	1/21/2004
+26	Lord of the Rings: Return	37	214	1/22/2004
+26	Lord of the Rings: Return	38	586	1/23/2004
+26	Lord of the Rings: Return	39	1235	1/24/2004
+26	Lord of the Rings: Return	40	828	1/25/2004
+26	Lord of the Rings: Return	41	210	1/26/2004
+26	Lord of the Rings: Return	42	217	1/27/2004
+26	Lord of the Rings: Return	43	231	1/28/2004
+26	Lord of the Rings: Return	44	216	1/29/2004
+26	Lord of the Rings: Return	45	621	1/30/2004
+26	Lord of the Rings: Return	46	1214	1/31/2004
+26	Lord of the Rings: Return	47	532	2/1/2004
+26	Lord of the Rings: Return	48	179	2/2/2004
+26	Lord of the Rings: Return	49	184	2/3/2004
+26	Lord of the Rings: Return	50	169	2/4/2004
+26	Lord of the Rings: Return	51	156	2/5/2004
+26	Lord of the Rings: Return	52	479	2/6/2004
+26	Lord of the Rings: Return	53	1073	2/7/2004
+26	Lord of the Rings: Return	54	730	2/8/2004
+26	Lord of the Rings: Return	55	164	2/9/2004
+26	Lord of the Rings: Return	56	152	2/10/2004
+26	Lord of the Rings: Return	57	142	2/11/2004
+26	Lord of the Rings: Return	58	161	2/12/2004
+26	Lord of the Rings: Return	59	481	2/13/2004
+26	Lord of the Rings: Return	60	1177	2/14/2004
+26	Lord of the Rings: Return	61	860	2/15/2004
+26	Lord of the Rings: Return	62	543	2/16/2004
+26	Lord of the Rings: Return	63	201	2/17/2004
+26	Lord of the Rings: Return	64	179	2/18/2004
+26	Lord of the Rings: Return	65	176	2/19/2004
+26	Lord of the Rings: Return	66	426	2/20/2004
+26	Lord of the Rings: Return	67	924	2/21/2004
+26	Lord of the Rings: Return	68	637	2/22/2004
+26	Lord of the Rings: Return	69	147	2/23/2004
+26	Lord of the Rings: Return	70	153	2/24/2004
+26	Lord of the Rings: Return	71	134	2/25/2004
+26	Lord of the Rings: Return	72	141	2/26/2004
+26	Lord of the Rings: Return	73	450	2/27/2004
+26	Lord of the Rings: Return	74	899	2/28/2004
+26	Lord of the Rings: Return	75	629	2/29/2004
+26	Lord of the Rings: Return	76	248	3/1/2004
+26	Lord of the Rings: Return	77	250	3/2/2004
+26	Lord of the Rings: Return	78	218	3/3/2004
+26	Lord of the Rings: Return	79	227	3/4/2004
+26	Lord of the Rings: Return	80	420	3/5/2004
+26	Lord of the Rings: Return	81	753	3/6/2004
+26	Lord of the Rings: Return	82	464	3/7/2004
+26	Lord of the Rings: Return	83	117	3/8/2004
+26	Lord of the Rings: Return	84	120	3/9/2004
+26	Lord of the Rings: Return	85	111	3/10/2004
+26	Lord of the Rings: Return	86	124	3/11/2004
+26	Lord of the Rings: Return	87	383	3/12/2004
+26	Lord of the Rings: Return	88	695	3/13/2004
+26	Lord of the Rings: Return	89	480	3/14/2004
+26	Lord of the Rings: Return	90	161	3/15/2004
+26	Lord of the Rings: Return	91	177	3/16/2004
+26	Lord of the Rings: Return	92	152	3/17/2004
+26	Lord of the Rings: Return	93	171	3/18/2004
+26	Lord of the Rings: Return	94	392	3/19/2004
+26	Lord of the Rings: Return	95	586	3/20/2004
+26	Lord of the Rings: Return	96	383	3/21/2004
+26	Lord of the Rings: Return	97	119	3/22/2004
+26	Lord of the Rings: Return	98	119	3/23/2004
+26	Lord of the Rings: Return	99	116	3/24/2004
+26	Lord of the Rings: Return	100	128	3/25/2004
+27	Million Dollar Baby	1	1592	1/28/2005
+27	Million Dollar Baby	2	2693	1/29/2005
+27	Million Dollar Baby	3	1728	1/30/2005
+27	Million Dollar Baby	4	531	1/31/2005
+27	Million Dollar Baby	5	584	2/1/2005
+27	Million Dollar Baby	6	538	2/2/2005
+27	Million Dollar Baby	7	506	2/3/2005
+27	Million Dollar Baby	8	1284	2/4/2005
+27	Million Dollar Baby	9	2137	2/5/2005
+27	Million Dollar Baby	10	771	2/6/2005
+27	Million Dollar Baby	11	385	2/7/2005
+27	Million Dollar Baby	12	399	2/8/2005
+27	Million Dollar Baby	13	353	2/9/2005
+27	Million Dollar Baby	14	376	2/10/2005
+27	Million Dollar Baby	15	934	2/11/2005
+27	Million Dollar Baby	16	1705	2/12/2005
+27	Million Dollar Baby	17	1017	2/13/2005
+27	Million Dollar Baby	18	440	2/14/2005
+27	Million Dollar Baby	19	278	2/15/2005
+27	Million Dollar Baby	20	258	2/16/2005
+27	Million Dollar Baby	21	279	2/17/2005
+27	Million Dollar Baby	22	760	2/18/2005
+27	Million Dollar Baby	23	1431	2/19/2005
+27	Million Dollar Baby	24	1041	2/20/2005
+27	Million Dollar Baby	25	633	2/21/2005
+27	Million Dollar Baby	26	298	2/22/2005
+27	Million Dollar Baby	27	296	2/23/2005
+27	Million Dollar Baby	28	290	2/24/2005
+27	Million Dollar Baby	29	941	2/25/2005
+27	Million Dollar Baby	30	1681	2/26/2005
+27	Million Dollar Baby	31	878	2/27/2005
+27	Million Dollar Baby	32	406	2/28/2005
+27	Million Dollar Baby	33	456	3/1/2005
+27	Million Dollar Baby	34	409	3/2/2005
+27	Million Dollar Baby	35	429	3/3/2005
+27	Million Dollar Baby	36	979	3/4/2005
+27	Million Dollar Baby	37	1633	3/5/2005
+27	Million Dollar Baby	38	856	3/6/2005
+27	Million Dollar Baby	39	226	3/7/2005
+27	Million Dollar Baby	40	260	3/8/2005
+27	Million Dollar Baby	41	264	3/9/2005
+27	Million Dollar Baby	42	229	3/10/2005
+27	Million Dollar Baby	43	547	3/11/2005
+27	Million Dollar Baby	44	1031	3/12/2005
+27	Million Dollar Baby	45	552	3/13/2005
+27	Million Dollar Baby	46	186	3/14/2005
+27	Million Dollar Baby	47	211	3/15/2005
+27	Million Dollar Baby	48	198	3/16/2005
+27	Million Dollar Baby	49	190	3/17/2005
+27	Million Dollar Baby	50	498	3/18/2005
+27	Million Dollar Baby	51	848	3/19/2005
+27	Million Dollar Baby	52	476	3/20/2005
+27	Million Dollar Baby	53	171	3/21/2005
+27	Million Dollar Baby	54	183	3/22/2005
+27	Million Dollar Baby	55	187	3/23/2005
+27	Million Dollar Baby	56	186	3/24/2005
+27	Million Dollar Baby	57	526	3/25/2005
+27	Million Dollar Baby	58	631	3/26/2005
+27	Million Dollar Baby	59	391	3/27/2005
+27	Million Dollar Baby	60	194	3/28/2005
+27	Million Dollar Baby	61	144	3/29/2005
+27	Million Dollar Baby	62	136	3/30/2005
+27	Million Dollar Baby	63	146	3/31/2005
+28	Pirates 1: Curse of the Black Pearl	1	4469	7/9/2003
+28	Pirates 1: Curse of the Black Pearl	2	3469	7/10/2003
+28	Pirates 1: Curse of the Black Pearl	3	4600	7/11/2003
+28	Pirates 1: Curse of the Black Pearl	4	5343	7/12/2003
+28	Pirates 1: Curse of the Black Pearl	5	4397	7/13/2003
+28	Pirates 1: Curse of the Black Pearl	6	2296	7/14/2003
+28	Pirates 1: Curse of the Black Pearl	7	2249	7/15/2003
+28	Pirates 1: Curse of the Black Pearl	8	2159	7/16/2003
+28	Pirates 1: Curse of the Black Pearl	9	1968	7/17/2003
+28	Pirates 1: Curse of the Black Pearl	10	3127	7/18/2003
+28	Pirates 1: Curse of the Black Pearl	11	3899	7/19/2003
+28	Pirates 1: Curse of the Black Pearl	12	3106	7/20/2003
+28	Pirates 1: Curse of the Black Pearl	13	1587	7/21/2003
+28	Pirates 1: Curse of the Black Pearl	14	1622	7/22/2003
+28	Pirates 1: Curse of the Black Pearl	15	1513	7/23/2003
+28	Pirates 1: Curse of the Black Pearl	16	1438	7/24/2003
+28	Pirates 1: Curse of the Black Pearl	17	1995	7/25/2003
+28	Pirates 1: Curse of the Black Pearl	18	2625	7/26/2003
+28	Pirates 1: Curse of the Black Pearl	19	2153	7/27/2003
+28	Pirates 1: Curse of the Black Pearl	20	1049	7/28/2003
+28	Pirates 1: Curse of the Black Pearl	21	1053	7/29/2003
+28	Pirates 1: Curse of the Black Pearl	22	959	7/30/2003
+28	Pirates 1: Curse of the Black Pearl	23	994	7/31/2003
+28	Pirates 1: Curse of the Black Pearl	24	1667	8/1/2003
+28	Pirates 1: Curse of the Black Pearl	25	2185	8/2/2003
+28	Pirates 1: Curse of the Black Pearl	26	1707	8/3/2003
+28	Pirates 1: Curse of the Black Pearl	27	838	8/4/2003
+28	Pirates 1: Curse of the Black Pearl	28	811	8/5/2003
+28	Pirates 1: Curse of the Black Pearl	29	676	8/6/2003
+28	Pirates 1: Curse of the Black Pearl	30	683	8/7/2003
+28	Pirates 1: Curse of the Black Pearl	31	1197	8/8/2003
+28	Pirates 1: Curse of the Black Pearl	32	1667	8/9/2003
+28	Pirates 1: Curse of the Black Pearl	33	1245	8/10/2003
+28	Pirates 1: Curse of the Black Pearl	34	579	8/11/2003
+28	Pirates 1: Curse of the Black Pearl	35	585	8/12/2003
+28	Pirates 1: Curse of the Black Pearl	36	521	8/13/2003
+28	Pirates 1: Curse of the Black Pearl	37	425	8/14/2003
+28	Pirates 1: Curse of the Black Pearl	38	946	8/15/2003
+28	Pirates 1: Curse of the Black Pearl	39	1424	8/16/2003
+28	Pirates 1: Curse of the Black Pearl	40	1013	8/17/2003
+28	Pirates 1: Curse of the Black Pearl	41	468	8/18/2003
+28	Pirates 1: Curse of the Black Pearl	42	483	8/19/2003
+28	Pirates 1: Curse of the Black Pearl	43	427	8/20/2003
+28	Pirates 1: Curse of the Black Pearl	44	441	8/21/2003
+28	Pirates 1: Curse of the Black Pearl	45	882	8/22/2003
+28	Pirates 1: Curse of the Black Pearl	46	1260	8/23/2003
+28	Pirates 1: Curse of the Black Pearl	47	862	8/24/2003
+28	Pirates 1: Curse of the Black Pearl	48	347	8/25/2003
+28	Pirates 1: Curse of the Black Pearl	49	379	8/26/2003
+28	Pirates 1: Curse of the Black Pearl	50	325	8/27/2003
+28	Pirates 1: Curse of the Black Pearl	51	310	8/28/2003
+28	Pirates 1: Curse of the Black Pearl	52	860	8/29/2003
+28	Pirates 1: Curse of the Black Pearl	53	1332	8/30/2003
+28	Pirates 1: Curse of the Black Pearl	54	1386	8/31/2003
+28	Pirates 1: Curse of the Black Pearl	55	1279	9/1/2003
+28	Pirates 1: Curse of the Black Pearl	56	266	9/2/2003
+28	Pirates 1: Curse of the Black Pearl	57	220	9/3/2003
+28	Pirates 1: Curse of the Black Pearl	58	205	9/4/2003
+28	Pirates 1: Curse of the Black Pearl	59	646	9/5/2003
+28	Pirates 1: Curse of the Black Pearl	60	1113	9/6/2003
+28	Pirates 1: Curse of the Black Pearl	61	632	9/7/2003
+28	Pirates 1: Curse of the Black Pearl	62	153	9/8/2003
+28	Pirates 1: Curse of the Black Pearl	63	197	9/9/2003
+28	Pirates 1: Curse of the Black Pearl	64	170	9/10/2003
+28	Pirates 1: Curse of the Black Pearl	65	182	9/11/2003
+28	Pirates 1: Curse of the Black Pearl	66	562	9/12/2003
+28	Pirates 1: Curse of the Black Pearl	67	1076	9/13/2003
+28	Pirates 1: Curse of the Black Pearl	68	572	9/14/2003
+28	Pirates 1: Curse of the Black Pearl	69	126	9/15/2003
+28	Pirates 1: Curse of the Black Pearl	70	152	9/16/2003
+28	Pirates 1: Curse of the Black Pearl	71	137	9/17/2003
+28	Pirates 1: Curse of the Black Pearl	72	142	9/18/2003
+28	Pirates 1: Curse of the Black Pearl	73	584	9/19/2003
+28	Pirates 1: Curse of the Black Pearl	74	912	9/20/2003
+28	Pirates 1: Curse of the Black Pearl	75	493	9/21/2003
+28	Pirates 1: Curse of the Black Pearl	76	114	9/22/2003
+28	Pirates 1: Curse of the Black Pearl	77	138	9/23/2003
+28	Pirates 1: Curse of the Black Pearl	78	114	9/24/2003
+28	Pirates 1: Curse of the Black Pearl	79	117	9/25/2003
+29	Pirates 2: Dead Man's Chest	1	13508	7/7/2006
+29	Pirates 2: Dead Man's Chest	2	10753	7/8/2006
+29	Pirates 2: Dead Man's Chest	3	8556	7/9/2006
+29	Pirates 2: Dead Man's Chest	4	4389	7/10/2006
+29	Pirates 2: Dead Man's Chest	5	3806	7/11/2006
+29	Pirates 2: Dead Man's Chest	6	3425	7/12/2006
+29	Pirates 2: Dead Man's Chest	7	2990	7/13/2006
+29	Pirates 2: Dead Man's Chest	8	4487	7/14/2006
+29	Pirates 2: Dead Man's Chest	9	6012	7/15/2006
+29	Pirates 2: Dead Man's Chest	10	4586	7/16/2006
+29	Pirates 2: Dead Man's Chest	11	1915	7/17/2006
+29	Pirates 2: Dead Man's Chest	12	1812	7/18/2006
+29	Pirates 2: Dead Man's Chest	13	1560	7/19/2006
+29	Pirates 2: Dead Man's Chest	14	1565	7/20/2006
+29	Pirates 2: Dead Man's Chest	15	2418	7/21/2006
+29	Pirates 2: Dead Man's Chest	16	3548	7/22/2006
+29	Pirates 2: Dead Man's Chest	17	2554	7/23/2006
+29	Pirates 2: Dead Man's Chest	18	1041	7/24/2006
+29	Pirates 2: Dead Man's Chest	19	1021	7/25/2006
+29	Pirates 2: Dead Man's Chest	20	897	7/26/2006
+29	Pirates 2: Dead Man's Chest	21	906	7/27/2006
+29	Pirates 2: Dead Man's Chest	22	1556	7/28/2006
+29	Pirates 2: Dead Man's Chest	23	2188	7/29/2006
+29	Pirates 2: Dead Man's Chest	24	1631	7/30/2006
+29	Pirates 2: Dead Man's Chest	25	679	7/31/2006
+29	Pirates 2: Dead Man's Chest	26	717	8/1/2006
+29	Pirates 2: Dead Man's Chest	27	665	8/2/2006
+29	Pirates 2: Dead Man's Chest	28	603	8/3/2006
+29	Pirates 2: Dead Man's Chest	29	943	8/4/2006
+29	Pirates 2: Dead Man's Chest	30	1305	8/5/2006
+29	Pirates 2: Dead Man's Chest	31	954	8/6/2006
+29	Pirates 2: Dead Man's Chest	32	458	8/7/2006
+29	Pirates 2: Dead Man's Chest	33	402	8/8/2006
+29	Pirates 2: Dead Man's Chest	34	357	8/9/2006
+29	Pirates 2: Dead Man's Chest	35	382	8/10/2006
+29	Pirates 2: Dead Man's Chest	36	707	8/11/2006
+29	Pirates 2: Dead Man's Chest	37	1039	8/12/2006
+29	Pirates 2: Dead Man's Chest	38	714	8/13/2006
+29	Pirates 2: Dead Man's Chest	39	319	8/14/2006
+29	Pirates 2: Dead Man's Chest	40	341	8/15/2006
+29	Pirates 2: Dead Man's Chest	41	285	8/16/2006
+29	Pirates 2: Dead Man's Chest	42	283	8/17/2006
+29	Pirates 2: Dead Man's Chest	43	608	8/18/2006
+29	Pirates 2: Dead Man's Chest	44	984	8/19/2006
+29	Pirates 2: Dead Man's Chest	45	696	8/20/2006
+29	Pirates 2: Dead Man's Chest	46	250	8/21/2006
+29	Pirates 2: Dead Man's Chest	47	261	8/22/2006
+29	Pirates 2: Dead Man's Chest	48	246	8/23/2006
+29	Pirates 2: Dead Man's Chest	49	259	8/24/2006
+29	Pirates 2: Dead Man's Chest	50	624	8/25/2006
+29	Pirates 2: Dead Man's Chest	51	990	8/26/2006
+29	Pirates 2: Dead Man's Chest	52	725	8/27/2006
+29	Pirates 2: Dead Man's Chest	53	250	8/28/2006
+29	Pirates 2: Dead Man's Chest	54	248	8/29/2006
+29	Pirates 2: Dead Man's Chest	55	220	8/30/2006
+29	Pirates 2: Dead Man's Chest	56	195	8/31/2006
+29	Pirates 2: Dead Man's Chest	57	464	9/1/2006
+29	Pirates 2: Dead Man's Chest	58	823	9/2/2006
+29	Pirates 2: Dead Man's Chest	59	832	9/3/2006
+29	Pirates 2: Dead Man's Chest	60	633	9/4/2006
+29	Pirates 2: Dead Man's Chest	61	121	9/5/2006
+29	Pirates 2: Dead Man's Chest	62	104	9/6/2006
+29	Pirates 2: Dead Man's Chest	63	102	9/7/2006
+29	Pirates 2: Dead Man's Chest	64	311	9/8/2006
+29	Pirates 2: Dead Man's Chest	65	613	9/9/2006
+29	Pirates 2: Dead Man's Chest	66	330	9/10/2006
+30	Pirates 3: At World's End	1	4271	5/24/2007
+30	Pirates 3: At World's End	2	9837	5/25/2007
+30	Pirates 3: At World's End	3	8643	5/26/2007
+30	Pirates 3: At World's End	4	7822	5/27/2007
+30	Pirates 3: At World's End	5	5747	5/28/2007
+30	Pirates 3: At World's End	6	1786	5/29/2007
+30	Pirates 3: At World's End	7	1468	5/30/2007
+30	Pirates 3: At World's End	8	1399	5/31/2007
+30	Pirates 3: At World's End	9	2939	6/1/2007
+30	Pirates 3: At World's End	10	4098	6/2/2007
+30	Pirates 3: At World's End	11	3098	6/3/2007
+30	Pirates 3: At World's End	12	952	6/4/2007
+30	Pirates 3: At World's End	13	870	6/5/2007
+30	Pirates 3: At World's End	14	798	6/6/2007
+30	Pirates 3: At World's End	15	763	6/7/2007
+30	Pirates 3: At World's End	16	1541	6/8/2007
+30	Pirates 3: At World's End	17	2233	6/9/2007
+30	Pirates 3: At World's End	18	1510	6/10/2007
+30	Pirates 3: At World's End	19	542	6/11/2007
+30	Pirates 3: At World's End	20	519	6/12/2007
+30	Pirates 3: At World's End	21	502	6/13/2007
+30	Pirates 3: At World's End	22	509	6/14/2007
+30	Pirates 3: At World's End	23	968	6/15/2007
+30	Pirates 3: At World's End	24	1553	6/16/2007
+30	Pirates 3: At World's End	25	1207	6/17/2007
+30	Pirates 3: At World's End	26	439	6/18/2007
+30	Pirates 3: At World's End	27	433	6/19/2007
+30	Pirates 3: At World's End	28	422	6/20/2007
+30	Pirates 3: At World's End	29	404	6/21/2007
+30	Pirates 3: At World's End	30	740	6/22/2007
+30	Pirates 3: At World's End	31	1049	6/23/2007
+30	Pirates 3: At World's End	32	781	6/24/2007
+30	Pirates 3: At World's End	33	351	6/25/2007
+30	Pirates 3: At World's End	34	345	6/26/2007
+30	Pirates 3: At World's End	35	317	6/27/2007
+30	Pirates 3: At World's End	36	323	6/28/2007
+30	Pirates 3: At World's End	37	693	6/29/2007
+30	Pirates 3: At World's End	38	917	6/30/2007
+30	Pirates 3: At World's End	39	684	7/1/2007
+30	Pirates 3: At World's End	40	348	7/2/2007
+30	Pirates 3: At World's End	41	383	7/4/2007
+30	Pirates 3: At World's End	42	325	7/5/2007
+30	Pirates 3: At World's End	43	230	7/9/2007
+30	Pirates 3: At World's End	44	217	7/10/2007
+30	Pirates 3: At World's End	45	202	7/16/2007
+30	Pirates 3: At World's End	46	227	7/17/2007
+30	Pirates 3: At World's End	47	238	7/18/2007
+30	Pirates 3: At World's End	48	249	7/19/2007
+31	Quinceaneara	NA	NA	NA
+32	Raiders of the Lost Ark	NA	NA	NA
+33	Return of the Jedi	1	6207	5/25/1983
+33	Return of the Jedi	2	4412	5/26/1983
+33	Return of the Jedi	3	6424	5/27/1983
+33	Return of the Jedi	4	8126	5/28/1983
+33	Return of the Jedi	5	8423	5/29/1983
+33	Return of the Jedi	6	7456	5/30/1983
+33	Return of the Jedi	7	4171	5/31/1983
+33	Return of the Jedi	8	3829	6/1/1983
+33	Return of the Jedi	9	3756	6/2/1983
+33	Return of the Jedi	10	5074	6/3/1983
+33	Return of the Jedi	11	6833	6/4/1983
+33	Return of the Jedi	12	5189	6/5/1983
+34	"Road Home, The"	NA	NA	NA
+35	Run Lola Run	NA	NA	NA
+36	Shakespeare in Love	1	4164	1/1/1999
+36	Shakespeare in Love	2	3548	1/2/1999
+36	Shakespeare in Love	3	2639	1/3/1999
+36	Shakespeare in Love	4	1047	1/4/1999
+36	Shakespeare in Love	5	1270	1/5/1999
+36	Shakespeare in Love	6	1202	1/6/1999
+36	Shakespeare in Love	7	1194	1/7/1999
+36	Shakespeare in Love	8	1701	1/8/1999
+36	Shakespeare in Love	9	3172	1/9/1999
+36	Shakespeare in Love	10	1812	1/10/1999
+36	Shakespeare in Love	11	559	1/11/1999
+36	Shakespeare in Love	12	719	1/12/1999
+36	Shakespeare in Love	13	624	1/13/1999
+36	Shakespeare in Love	14	576	1/14/1999
+36	Shakespeare in Love	15	1508	1/15/1999
+36	Shakespeare in Love	16	2654	1/16/1999
+36	Shakespeare in Love	17	522	1/19/1999
+36	Shakespeare in Love	18	495	1/20/1999
+36	Shakespeare in Love	19	490	1/21/1999
+36	Shakespeare in Love	20	1519	1/22/1999
+36	Shakespeare in Love	21	2611	1/23/1999
+36	Shakespeare in Love	22	1450	1/24/1999
+36	Shakespeare in Love	23	518	1/25/1999
+36	Shakespeare in Love	24	671	1/26/1999
+36	Shakespeare in Love	25	577	1/27/1999
+36	Shakespeare in Love	26	588	1/28/1999
+36	Shakespeare in Love	27	1607	1/29/1999
+36	Shakespeare in Love	28	2549	1/30/1999
+36	Shakespeare in Love	29	1063	1/31/1999
+36	Shakespeare in Love	30	368	2/1/1999
+36	Shakespeare in Love	31	472	2/2/1999
+36	Shakespeare in Love	32	405	2/3/1999
+36	Shakespeare in Love	33	406	2/4/1999
+36	Shakespeare in Love	34	1257	2/5/1999
+36	Shakespeare in Love	35	2005	2/6/1999
+36	Shakespeare in Love	36	1046	2/7/1999
+36	Shakespeare in Love	37	242	2/8/1999
+36	Shakespeare in Love	38	490	2/9/1999
+36	Shakespeare in Love	39	521	2/10/1999
+36	Shakespeare in Love	40	510	2/11/1999
+36	Shakespeare in Love	41	877	2/12/1999
+36	Shakespeare in Love	42	1613	2/13/1999
+36	Shakespeare in Love	43	1485	2/14/1999
+36	Shakespeare in Love	44	597	2/15/1999
+36	Shakespeare in Love	45	338	2/16/1999
+36	Shakespeare in Love	46	261	2/17/1999
+36	Shakespeare in Love	47	273	2/18/1999
+36	Shakespeare in Love	48	818	2/19/1999
+36	Shakespeare in Love	49	1355	2/20/1999
+36	Shakespeare in Love	50	721	2/21/1999
+36	Shakespeare in Love	51	173	2/22/1999
+36	Shakespeare in Love	52	236	2/23/1999
+36	Shakespeare in Love	53	198	2/24/1999
+36	Shakespeare in Love	54	207	2/25/1999
+36	Shakespeare in Love	55	579	2/26/1999
+36	Shakespeare in Love	56	1073	2/27/1999
+36	Shakespeare in Love	57	579	2/28/1999
+36	Shakespeare in Love	58	148	3/1/1999
+36	Shakespeare in Love	59	204	3/2/1999
+36	Shakespeare in Love	60	166	3/3/1999
+36	Shakespeare in Love	61	204	3/4/1999
+36	Shakespeare in Love	62	455	3/5/1999
+36	Shakespeare in Love	63	892	3/6/1999
+36	Shakespeare in Love	64	501	3/7/1999
+36	Shakespeare in Love	65	154	3/8/1999
+36	Shakespeare in Love	66	199	3/9/1999
+36	Shakespeare in Love	67	177	3/10/1999
+36	Shakespeare in Love	68	190	3/11/1999
+36	Shakespeare in Love	69	541	3/12/1999
+36	Shakespeare in Love	70	957	3/13/1999
+36	Shakespeare in Love	71	549	3/14/1999
+36	Shakespeare in Love	72	223	3/15/1999
+36	Shakespeare in Love	73	262	3/16/1999
+36	Shakespeare in Love	74	210	3/17/1999
+36	Shakespeare in Love	75	260	3/18/1999
+36	Shakespeare in Love	76	632	3/19/1999
+36	Shakespeare in Love	77	1114	3/20/1999
+36	Shakespeare in Love	78	547	3/21/1999
+36	Shakespeare in Love	79	357	3/22/1999
+36	Shakespeare in Love	80	405	3/23/1999
+36	Shakespeare in Love	81	344	3/24/1999
+36	Shakespeare in Love	82	328	3/25/1999
+36	Shakespeare in Love	83	650	3/26/1999
+36	Shakespeare in Love	84	971	3/27/1999
+36	Shakespeare in Love	85	564	3/28/1999
+36	Shakespeare in Love	86	173	3/29/1999
+36	Shakespeare in Love	87	240	3/30/1999
+36	Shakespeare in Love	88	208	3/31/1999
+36	Shakespeare in Love	89	256	4/1/1999
+36	Shakespeare in Love	90	677	4/2/1999
+36	Shakespeare in Love	91	781	4/3/1999
+36	Shakespeare in Love	92	388	4/4/1999
+36	Shakespeare in Love	93	189	4/5/1999
+36	Shakespeare in Love	94	197	4/6/1999
+36	Shakespeare in Love	95	175	4/7/1999
+36	Shakespeare in Love	96	170	4/8/1999
+36	Shakespeare in Love	97	366	4/9/1999
+36	Shakespeare in Love	98	623	4/10/1999
+36	Shakespeare in Love	99	305	4/11/1999
+36	Shakespeare in Love	100	87	4/12/1999
+36	Shakespeare in Love	101	114	4/13/1999
+36	Shakespeare in Love	102	102	4/14/1999
+36	Shakespeare in Love	103	113	4/15/1999
+36	Shakespeare in Love	104	336	4/16/1999
+36	Shakespeare in Love	105	589	4/17/1999
+36	Shakespeare in Love	106	274	4/18/1999
+36	Shakespeare in Love	107	84	4/19/1999
+36	Shakespeare in Love	108	114	4/20/1999
+36	Shakespeare in Love	109	100	4/21/1999
+36	Shakespeare in Love	110	111	4/22/1999
+36	Shakespeare in Love	111	339	4/23/1999
+36	Shakespeare in Love	112	525	4/24/1999
+36	Shakespeare in Love	113	224	4/25/1999
+36	Shakespeare in Love	114	75	4/26/1999
+36	Shakespeare in Love	115	102	4/27/1999
+36	Shakespeare in Love	116	94	4/28/1999
+36	Shakespeare in Love	117	91	4/29/1999
+36	Shakespeare in Love	118	183	5/2/1999
+36	Shakespeare in Love	119	65	5/3/1999
+36	Shakespeare in Love	120	86	5/4/1999
+36	Shakespeare in Love	121	72	5/5/1999
+36	Shakespeare in Love	122	81	5/6/1999
+36	Shakespeare in Love	123	241	5/9/1999
+36	Shakespeare in Love	124	71	5/10/1999
+36	Shakespeare in Love	125	91	5/11/1999
+36	Shakespeare in Love	126	83	5/12/1999
+36	Shakespeare in Love	127	89	5/13/1999
+36	Shakespeare in Love	128	172	5/16/1999
+36	Shakespeare in Love	129	72	5/17/1999
+36	Shakespeare in Love	130	83	5/18/1999
+36	Shakespeare in Love	131	68	5/19/1999
+36	Shakespeare in Love	132	169	5/23/1999
+36	Shakespeare in Love	133	59	5/24/1999
+36	Shakespeare in Love	134	66	5/25/1999
+36	Shakespeare in Love	135	66	5/26/1999
+36	Shakespeare in Love	136	157	5/31/1999
+36	Shakespeare in Love	137	60	6/1/1999
+36	Shakespeare in Love	138	60	6/2/1999
+36	Shakespeare in Love	139	62	6/3/1999
+36	Shakespeare in Love	140	56	6/7/1999
+36	Shakespeare in Love	141	67	6/8/1999
+36	Shakespeare in Love	142	61	6/9/1999
+36	Shakespeare in Love	143	59	6/10/1999
+36	Shakespeare in Love	144	128	6/13/1999
+36	Shakespeare in Love	145	57	6/14/1999
+36	Shakespeare in Love	146	70	6/15/1999
+36	Shakespeare in Love	147	67	6/16/1999
+36	Shakespeare in Love	148	71	6/17/1999
+37	Shrek	1	3217	5/18/2001
+37	Shrek	2	4896	5/19/2001
+37	Shrek	3	3694	5/20/2001
+37	Shrek	4	1164	5/21/2001
+37	Shrek	5	959	5/22/2001
+37	Shrek	6	869	5/23/2001
+37	Shrek	7	953	5/24/2001
+37	Shrek	8	2670	5/25/2001
+37	Shrek	9	4669	5/26/2001
+37	Shrek	10	4276	5/27/2001
+37	Shrek	11	3515	5/28/2001
+37	Shrek	12	807	5/29/2001
+37	Shrek	13	731	5/30/2001
+37	Shrek	14	790	5/31/2001
+37	Shrek	15	1846	6/1/2001
+37	Shrek	16	3418	6/2/2001
+37	Shrek	17	2391	6/3/2001
+37	Shrek	18	678	6/4/2001
+37	Shrek	19	766	6/5/2001
+37	Shrek	20	770	6/6/2001
+37	Shrek	21	841	6/7/2001
+37	Shrek	22	1191	6/8/2001
+37	Shrek	23	1847	6/9/2001
+37	Shrek	24	1338	6/10/2001
+37	Shrek	25	509	6/11/2001
+37	Shrek	26	574	6/12/2001
+37	Shrek	27	549	6/13/2001
+37	Shrek	28	596	6/14/2001
+37	Shrek	29	1063	6/15/2001
+37	Shrek	30	1583	6/16/2001
+37	Shrek	31	1294	6/17/2001
+37	Shrek	32	489	6/18/2001
+37	Shrek	33	520	6/19/2001
+37	Shrek	34	548	6/20/2001
+37	Shrek	35	643	6/21/2001
+37	Shrek	36	1004	6/22/2001
+37	Shrek	37	1430	6/23/2001
+37	Shrek	38	971	6/24/2001
+37	Shrek	39	399	6/25/2001
+37	Shrek	40	438	6/26/2001
+37	Shrek	41	440	6/27/2001
+37	Shrek	42	453	6/28/2001
+37	Shrek	43	763	6/29/2001
+37	Shrek	44	1136	6/30/2001
+37	Shrek	45	956	7/1/2001
+37	Shrek	46	491	7/2/2001
+37	Shrek	47	628	7/3/2001
+37	Shrek	48	787	7/4/2001
+37	Shrek	49	464	7/5/2001
+37	Shrek	50	831	7/6/2001
+37	Shrek	51	1084	7/7/2001
+37	Shrek	52	928	7/8/2001
+37	Shrek	53	336	7/9/2001
+37	Shrek	54	397	7/10/2001
+37	Shrek	55	389	7/11/2001
+37	Shrek	56	357	7/12/2001
+37	Shrek	57	619	7/15/2001
+37	Shrek	58	297	7/16/2001
+37	Shrek	59	414	7/17/2001
+37	Shrek	60	340	7/18/2001
+37	Shrek	61	288	7/19/2001
+37	Shrek	62	471	7/22/2001
+37	Shrek	63	241	7/23/2001
+37	Shrek	64	304	7/24/2001
+37	Shrek	65	296	7/25/2001
+37	Shrek	66	326	7/26/2001
+37	Shrek	67	341	7/27/2001
+37	Shrek	68	519	7/28/2001
+37	Shrek	69	426	7/29/2001
+37	Shrek	70	198	7/30/2001
+37	Shrek	71	246	7/31/2001
+37	Shrek	72	227	8/1/2001
+37	Shrek	73	247	8/2/2001
+37	Shrek	74	334	8/5/2001
+37	Shrek	75	195	8/6/2001
+37	Shrek	76	212	8/7/2001
+37	Shrek	77	212	8/8/2001
+37	Shrek	78	227	8/9/2001
+38	Shrek 2	1	3154	5/19/2004
+38	Shrek 2	2	2451	5/20/2004
+38	Shrek 2	3	6808	5/21/2004
+38	Shrek 2	4	10761	5/22/2004
+38	Shrek 2	5	8384	5/23/2004
+38	Shrek 2	6	2765	5/24/2004
+38	Shrek 2	7	1927	5/25/2004
+38	Shrek 2	8	1922	5/26/2004
+38	Shrek 2	9	1973	5/27/2004
+38	Shrek 2	10	5091	5/28/2004
+38	Shrek 2	11	6449	5/29/2004
+38	Shrek 2	12	5868	5/30/2004
+38	Shrek 2	13	5543	5/31/2004
+38	Shrek 2	14	1375	6/1/2004
+38	Shrek 2	15	1278	6/2/2004
+38	Shrek 2	16	1202	6/3/2004
+38	Shrek 2	17	2518	6/4/2004
+38	Shrek 2	18	3768	6/5/2004
+38	Shrek 2	19	2884	6/6/2004
+38	Shrek 2	20	857	6/7/2004
+38	Shrek 2	21	909	6/8/2004
+38	Shrek 2	22	955	6/9/2004
+38	Shrek 2	23	1029	6/10/2004
+38	Shrek 2	24	1952	6/11/2004
+38	Shrek 2	25	2350	6/12/2004
+38	Shrek 2	26	1775	6/13/2004
+38	Shrek 2	27	749	6/14/2004
+38	Shrek 2	28	740	6/15/2004
+38	Shrek 2	29	725	6/16/2004
+38	Shrek 2	30	739	6/17/2004
+38	Shrek 2	31	1240	6/18/2004
+38	Shrek 2	32	1633	6/19/2004
+38	Shrek 2	33	1327	6/20/2004
+38	Shrek 2	34	571	6/21/2004
+38	Shrek 2	35	688	6/22/2004
+38	Shrek 2	36	552	6/23/2004
+38	Shrek 2	37	592	6/24/2004
+38	Shrek 2	38	1090	6/25/2004
+38	Shrek 2	39	1400	6/26/2004
+38	Shrek 2	40	1007	6/27/2004
+38	Shrek 2	41	504	6/28/2004
+38	Shrek 2	42	508	6/29/2004
+38	Shrek 2	43	417	6/30/2004
+38	Shrek 2	44	465	7/1/2004
+38	Shrek 2	45	743	7/2/2004
+38	Shrek 2	46	857	7/3/2004
+38	Shrek 2	47	638	7/4/2004
+38	Shrek 2	48	977	7/5/2004
+38	Shrek 2	49	428	7/6/2004
+38	Shrek 2	50	431	7/7/2004
+38	Shrek 2	51	436	7/8/2004
+38	Shrek 2	52	641	7/9/2004
+38	Shrek 2	53	818	7/10/2004
+38	Shrek 2	54	618	7/11/2004
+38	Shrek 2	55	355	7/12/2004
+38	Shrek 2	56	403	7/13/2004
+38	Shrek 2	57	392	7/14/2004
+38	Shrek 2	58	374	7/15/2004
+38	Shrek 2	59	415	7/16/2004
+38	Shrek 2	60	658	7/17/2004
+38	Shrek 2	61	603	7/18/2004
+38	Shrek 2	62	288	7/19/2004
+38	Shrek 2	63	289	7/20/2004
+38	Shrek 2	64	275	7/21/2004
+38	Shrek 2	65	286	7/22/2004
+38	Shrek 2	66	449	7/23/2004
+38	Shrek 2	67	598	7/24/2004
+38	Shrek 2	68	465	7/25/2004
+38	Shrek 2	69	234	7/26/2004
+38	Shrek 2	70	328	7/27/2004
+38	Shrek 2	71	314	7/28/2004
+38	Shrek 2	72	237	7/29/2004
+39	Shrek the Third	1	907	5/17/2007
+39	Shrek the Third	2	9322	5/18/2007
+39	Shrek the Third	3	11421	5/19/2007
+39	Shrek the Third	4	8764	5/20/2007
+39	Shrek the Third	5	2337	5/21/2007
+39	Shrek the Third	6	1586	5/22/2007
+39	Shrek the Third	7	1400	5/23/2007
+39	Shrek the Third	8	1422	5/24/2007
+39	Shrek the Third	9	3407	5/25/2007
+39	Shrek the Third	10	4944	5/26/2007
+39	Shrek the Third	11	4362	5/27/2007
+39	Shrek the Third	12	3349	5/28/2007
+39	Shrek the Third	13	871	5/29/2007
+39	Shrek the Third	14	825	5/30/2007
+39	Shrek the Third	15	834	5/31/2007
+39	Shrek the Third	16	1790	6/1/2007
+39	Shrek the Third	17	2791	6/2/2007
+39	Shrek the Third	18	2238	6/3/2007
+39	Shrek the Third	19	639	6/4/2007
+39	Shrek the Third	20	629	6/5/2007
+39	Shrek the Third	21	609	6/6/2007
+39	Shrek the Third	22	609	6/7/2007
+39	Shrek the Third	23	1127	6/8/2007
+39	Shrek the Third	24	1652	6/9/2007
+39	Shrek the Third	25	1124	6/10/2007
+39	Shrek the Third	26	417	6/11/2007
+39	Shrek the Third	27	430	6/12/2007
+39	Shrek the Third	28	434	6/13/2007
+39	Shrek the Third	29	448	6/14/2007
+39	Shrek the Third	30	764	6/15/2007
+39	Shrek the Third	31	1003	6/16/2007
+39	Shrek the Third	32	802	6/17/2007
+39	Shrek the Third	33	329	6/18/2007
+39	Shrek the Third	34	360	6/19/2007
+39	Shrek the Third	35	372	6/20/2007
+39	Shrek the Third	36	339	6/21/2007
+39	Shrek the Third	37	621	6/22/2007
+39	Shrek the Third	38	818	6/23/2007
+39	Shrek the Third	39	565	6/24/2007
+39	Shrek the Third	40	287	6/25/2007
+39	Shrek the Third	41	296	6/26/2007
+39	Shrek the Third	42	283	6/27/2007
+39	Shrek the Third	43	289	6/28/2007
+39	Shrek the Third	44	417	6/29/2007
+39	Shrek the Third	45	503	6/30/2007
+39	Shrek the Third	46	374	7/1/2007
+39	Shrek the Third	47	190	7/2/2007
+39	Shrek the Third	48	146	7/3/2007
+39	Shrek the Third	49	205	7/4/2007
+39	Shrek the Third	50	167	7/5/2007
+39	Shrek the Third	51	341	7/6/2007
+39	Shrek the Third	52	422	7/7/2007
+39	Shrek the Third	53	320	7/8/2007
+39	Shrek the Third	54	154	7/9/2007
+39	Shrek the Third	55	156	7/10/2007
+39	Shrek the Third	56	84	7/11/2007
+39	Shrek the Third	57	83	7/12/2007
+39	Shrek the Third	58	308	7/13/2007
+39	Shrek the Third	59	415	7/14/2007
+39	Shrek the Third	60	305	7/15/2007
+39	Shrek the Third	61	144	7/16/2007
+39	Shrek the Third	62	181	7/17/2007
+39	Shrek the Third	63	201	7/18/2007
+39	Shrek the Third	64	211	7/19/2007
+39	Shrek the Third	65	300	7/20/2007
+39	Shrek the Third	66	381	7/21/2007
+39	Shrek the Third	67	260	7/22/2007
+39	Shrek the Third	68	165	7/23/2007
+39	Shrek the Third	69	176	7/24/2007
+39	Shrek the Third	70	146	7/25/2007
+39	Shrek the Third	71	158	7/26/2007
+39	Shrek the Third	72	426	7/27/2007
+39	Shrek the Third	73	572	7/28/2007
+39	Shrek the Third	74	397	7/29/2007
+39	Shrek the Third	75	202	7/30/2007
+39	Shrek the Third	76	236	7/31/2007
+39	Shrek the Third	77	232	8/1/2007
+39	Shrek the Third	78	232	8/2/2007
+39	Shrek the Third	79	340	8/3/2007
+39	Shrek the Third	80	449	8/4/2007
+39	Shrek the Third	81	353	8/5/2007
+39	Shrek the Third	82	182	8/6/2007
+39	Shrek the Third	83	204	8/7/2007
+39	Shrek the Third	84	188	8/8/2007
+39	Shrek the Third	85	184	8/9/2007
+40	Spider-Man	1	10901	5/3/2002
+40	Spider-Man	2	12067	5/4/2002
+40	Spider-Man	3	8801	5/5/2002
+40	Spider-Man	4	3052	5/6/2002
+40	Spider-Man	5	2756	5/7/2002
+40	Spider-Man	6	2300	5/8/2002
+40	Spider-Man	7	2065	5/9/2002
+40	Spider-Man	8	5507	5/10/2002
+40	Spider-Man	9	8439	5/11/2002
+40	Spider-Man	10	5811	5/12/2002
+40	Spider-Man	11	1442	5/13/2002
+40	Spider-Man	12	1252	5/14/2002
+40	Spider-Man	13	1174	5/15/2002
+40	Spider-Man	14	972	5/16/2002
+40	Spider-Man	15	3275	5/17/2002
+40	Spider-Man	16	5536	5/18/2002
+40	Spider-Man	17	3648	5/19/2002
+40	Spider-Man	18	1192	5/20/2002
+40	Spider-Man	19	770	5/21/2002
+40	Spider-Man	20	685	5/22/2002
+40	Spider-Man	21	743	5/23/2002
+40	Spider-Man	22	2005	5/24/2002
+40	Spider-Man	23	2917	5/25/2002
+40	Spider-Man	24	2568	5/26/2002
+40	Spider-Man	25	1885	5/27/2002
+40	Spider-Man	26	518	5/28/2002
+40	Spider-Man	27	478	5/29/2002
+40	Spider-Man	28	517	5/30/2002
+40	Spider-Man	29	1019	5/31/2002
+40	Spider-Man	30	1763	6/1/2002
+40	Spider-Man	31	1145	6/2/2002
+40	Spider-Man	32	413	6/3/2002
+40	Spider-Man	33	453	6/4/2002
+40	Spider-Man	34	417	6/5/2002
+40	Spider-Man	35	442	6/6/2002
+40	Spider-Man	36	920	6/7/2002
+40	Spider-Man	37	1304	6/8/2002
+40	Spider-Man	38	963	6/9/2002
+40	Spider-Man	39	333	6/10/2002
+40	Spider-Man	40	370	6/11/2002
+40	Spider-Man	41	348	6/12/2002
+40	Spider-Man	42	368	6/13/2002
+40	Spider-Man	43	786	6/14/2002
+40	Spider-Man	44	1115	6/15/2002
+40	Spider-Man	45	881	6/16/2002
+40	Spider-Man	46	305	6/17/2002
+40	Spider-Man	47	324	6/18/2002
+40	Spider-Man	48	295	6/19/2002
+40	Spider-Man	49	293	6/20/2002
+40	Spider-Man	50	574	6/21/2002
+40	Spider-Man	51	824	6/22/2002
+40	Spider-Man	52	602	6/23/2002
+40	Spider-Man	53	243	6/24/2002
+40	Spider-Man	54	265	6/25/2002
+40	Spider-Man	55	262	6/26/2002
+40	Spider-Man	56	267	6/27/2002
+40	Spider-Man	57	499	6/28/2002
+40	Spider-Man	58	692	6/29/2002
+40	Spider-Man	59	539	6/30/2002
+40	Spider-Man	60	274	7/1/2002
+40	Spider-Man	61	278	7/2/2002
+40	Spider-Man	62	325	7/3/2002
+40	Spider-Man	63	327	7/4/2002
+40	Spider-Man	64	519	7/5/2002
+40	Spider-Man	65	568	7/6/2002
+40	Spider-Man	66	381	7/7/2002
+40	Spider-Man	67	164	7/8/2002
+40	Spider-Man	68	184	7/9/2002
+40	Spider-Man	69	172	7/10/2002
+40	Spider-Man	70	174	7/11/2002
+40	Spider-Man	71	171	7/12/2002
+40	Spider-Man	72	257	7/13/2002
+40	Spider-Man	73	165	7/14/2002
+40	Spider-Man	74	453	7/19/2002
+40	Spider-Man	75	649	7/20/2002
+40	Spider-Man	76	419	7/21/2002
+41	Spider-Man 2	1	9741	6/30/2004
+41	Spider-Man 2	2	5735	7/1/2004
+41	Spider-Man 2	3	7816	7/2/2004
+41	Spider-Man 2	4	8128	7/3/2004
+41	Spider-Man 2	5	5288	7/4/2004
+41	Spider-Man 2	6	6662	7/5/2004
+41	Spider-Man 2	7	2893	7/6/2004
+41	Spider-Man 2	8	2417	7/7/2004
+41	Spider-Man 2	9	2201	7/8/2004
+41	Spider-Man 2	10	3327	7/9/2004
+41	Spider-Man 2	11	4301	7/10/2004
+41	Spider-Man 2	12	3218	7/11/2004
+41	Spider-Man 2	13	1384	7/12/2004
+41	Spider-Man 2	14	1304	7/13/2004
+41	Spider-Man 2	15	1209	7/14/2004
+41	Spider-Man 2	16	1161	7/15/2004
+41	Spider-Man 2	17	1750	7/16/2004
+41	Spider-Man 2	18	2450	7/17/2004
+41	Spider-Man 2	19	1899	7/18/2004
+41	Spider-Man 2	20	743	7/19/2004
+41	Spider-Man 2	21	717	7/20/2004
+41	Spider-Man 2	22	629	7/21/2004
+41	Spider-Man 2	23	662	7/22/2004
+41	Spider-Man 2	24	1146	7/23/2004
+41	Spider-Man 2	25	1643	7/24/2004
+41	Spider-Man 2	26	1167	7/25/2004
+41	Spider-Man 2	27	497	7/26/2004
+41	Spider-Man 2	28	544	7/27/2004
+41	Spider-Man 2	29	489	7/28/2004
+41	Spider-Man 2	30	430	7/29/2004
+41	Spider-Man 2	31	800	7/30/2004
+41	Spider-Man 2	32	1169	7/31/2004
+41	Spider-Man 2	33	889	8/1/2004
+41	Spider-Man 2	34	414	8/2/2004
+41	Spider-Man 2	35	396	8/3/2004
+41	Spider-Man 2	36	368	8/4/2004
+41	Spider-Man 2	37	365	8/5/2004
+41	Spider-Man 2	38	624	8/6/2004
+41	Spider-Man 2	39	871	8/7/2004
+41	Spider-Man 2	40	619	8/8/2004
+41	Spider-Man 2	41	278	8/9/2004
+41	Spider-Man 2	42	309	8/10/2004
+41	Spider-Man 2	43	290	8/11/2004
+41	Spider-Man 2	44	278	8/12/2004
+41	Spider-Man 2	45	530	8/13/2004
+41	Spider-Man 2	46	739	8/14/2004
+41	Spider-Man 2	47	555	8/15/2004
+41	Spider-Man 2	48	248	8/16/2004
+41	Spider-Man 2	49	233	8/17/2004
+41	Spider-Man 2	50	223	8/18/2004
+41	Spider-Man 2	51	229	8/19/2004
+42	Spider-Man 3	1	14074	5/4/2007
+42	Spider-Man 3	2	12074	5/5/2007
+42	Spider-Man 3	3	9393	5/6/2007
+42	Spider-Man 3	4	2419	5/7/2007
+42	Spider-Man 3	5	1892	5/8/2007
+42	Spider-Man 3	6	1580	5/9/2007
+42	Spider-Man 3	7	1390	5/10/2007
+42	Spider-Man 3	8	4036	5/11/2007
+42	Spider-Man 3	9	5922	5/12/2007
+42	Spider-Man 3	10	3722	5/13/2007
+42	Spider-Man 3	11	845	5/14/2007
+42	Spider-Man 3	12	813	5/15/2007
+42	Spider-Man 3	13	740	5/16/2007
+42	Spider-Man 3	14	688	5/17/2007
+42	Spider-Man 3	15	1845	5/18/2007
+42	Spider-Man 3	16	2863	5/19/2007
+42	Spider-Man 3	17	2004	5/20/2007
+42	Spider-Man 3	18	543	5/21/2007
+42	Spider-Man 3	19	383	5/22/2007
+42	Spider-Man 3	20	360	5/23/2007
+42	Spider-Man 3	21	394	5/24/2007
+42	Spider-Man 3	22	1021	5/25/2007
+42	Spider-Man 3	23	1484	5/26/2007
+42	Spider-Man 3	24	1345	5/27/2007
+42	Spider-Man 3	25	1014	5/28/2007
+42	Spider-Man 3	26	278	5/29/2007
+42	Spider-Man 3	27	259	5/30/2007
+42	Spider-Man 3	28	272	5/31/2007
+42	Spider-Man 3	29	595	6/1/2007
+42	Spider-Man 3	30	946	6/2/2007
+42	Spider-Man 3	31	687	6/3/2007
+42	Spider-Man 3	32	223	6/4/2007
+42	Spider-Man 3	33	220	6/5/2007
+42	Spider-Man 3	34	209	6/6/2007
+42	Spider-Man 3	35	212	6/7/2007
+42	Spider-Man 3	36	483	6/8/2007
+42	Spider-Man 3	37	733	6/9/2007
+42	Spider-Man 3	38	459	6/10/2007
+42	Spider-Man 3	39	183	6/11/2007
+42	Spider-Man 3	40	184	6/12/2007
+42	Spider-Man 3	41	188	6/13/2007
+42	Spider-Man 3	42	197	6/14/2007
+42	Spider-Man 3	43	378	6/15/2007
+42	Spider-Man 3	44	548	6/16/2007
+42	Spider-Man 3	45	449	6/17/2007
+42	Spider-Man 3	46	166	6/18/2007
+42	Spider-Man 3	47	169	6/19/2007
+42	Spider-Man 3	48	168	6/20/2007
+42	Spider-Man 3	49	170	6/21/2007
+42	Spider-Man 3	50	166	6/25/2007
+42	Spider-Man 3	51	170	6/26/2007
+42	Spider-Man 3	52	123	6/27/2007
+42	Spider-Man 3	53	128	6/28/2007
+43	Star Wars	NA	NA	NA
+44	Star Wars: Phantom Menace	1	9610	5/19/1999
+44	Star Wars: Phantom Menace	2	4144	5/20/1999
+44	Star Wars: Phantom Menace	3	6218	5/21/1999
+44	Star Wars: Phantom Menace	4	8220	5/22/1999
+44	Star Wars: Phantom Menace	5	7384	5/23/1999
+44	Star Wars: Phantom Menace	6	3664	5/24/1999
+44	Star Wars: Phantom Menace	7	2755	5/25/1999
+44	Star Wars: Phantom Menace	8	2610	5/26/1999
+44	Star Wars: Phantom Menace	9	2535	5/27/1999
+44	Star Wars: Phantom Menace	10	4474	5/28/1999
+44	Star Wars: Phantom Menace	11	6397	5/29/1999
+44	Star Wars: Phantom Menace	12	6134	5/30/1999
+44	Star Wars: Phantom Menace	13	5129	5/31/1999
+44	Star Wars: Phantom Menace	14	1806	6/1/1999
+44	Star Wars: Phantom Menace	15	1752	6/2/1999
+44	Star Wars: Phantom Menace	16	1658	6/3/1999
+44	Star Wars: Phantom Menace	17	2761	6/4/1999
+44	Star Wars: Phantom Menace	18	4593	6/5/1999		
+44	Star Wars: Phantom Menace	19	3505	6/6/1999		
+44	Star Wars: Phantom Menace	20	1296	6/7/1999		
+44	Star Wars: Phantom Menace	21	1323	6/8/1999		
+44	Star Wars: Phantom Menace	22	1261	6/9/1999		
+44	Star Wars: Phantom Menace	23	1270	6/10/1999		
+44	Star Wars: Phantom Menace	24	2207	6/11/1999		
+44	Star Wars: Phantom Menace	25	3479	6/12/1999		
+44	Star Wars: Phantom Menace	26	2772	6/13/1999		
+44	Star Wars: Phantom Menace	27	1000	6/14/1999		
+44	Star Wars: Phantom Menace	28	1016	6/15/1999		
+44	Star Wars: Phantom Menace	29	982	6/16/1999		
+44	Star Wars: Phantom Menace	30	1053	6/17/1999		
+44	Star Wars: Phantom Menace	31	1592	6/18/1999		
+44	Star Wars: Phantom Menace	32	2445	6/19/1999		
+44	Star Wars: Phantom Menace	33	2259	6/20/1999		
+44	Star Wars: Phantom Menace	34	785	6/21/1999		
+44	Star Wars: Phantom Menace	35	801	6/22/1999		
+44	Star Wars: Phantom Menace	36	737	6/23/1999		
+44	Star Wars: Phantom Menace	37	818	6/24/1999		
+44	Star Wars: Phantom Menace	38	1206	6/25/1999		
+44	Star Wars: Phantom Menace	39	1847	6/26/1999		
+44	Star Wars: Phantom Menace	40	1446	6/27/1999		
+44	Star Wars: Phantom Menace	41	675	6/28/1999		
+44	Star Wars: Phantom Menace	42	717	6/29/1999		
+44	Star Wars: Phantom Menace	43	557	6/30/1999		
+44	Star Wars: Phantom Menace	44	676	7/1/1999		
+44	Star Wars: Phantom Menace	45	1102	7/2/1999		
+44	Star Wars: Phantom Menace	46	1452	7/3/1999		
+44	Star Wars: Phantom Menace	47	1060	7/4/1999		
+44	Star Wars: Phantom Menace	48	1427	7/5/1999		
+44	Star Wars: Phantom Menace	49	656	7/6/1999		
+44	Star Wars: Phantom Menace	50	526	7/7/1999
+44	Star Wars: Phantom Menace	51	533	7/8/1999
+44	Star Wars: Phantom Menace	52	828	7/9/1999
+44	Star Wars: Phantom Menace	53	1257	7/10/1999
+44	Star Wars: Phantom Menace	54	918	7/11/1999
+44	Star Wars: Phantom Menace	55	435	7/12/1999
+44	Star Wars: Phantom Menace	56	497	7/13/1999
+44	Star Wars: Phantom Menace	57	433	7/14/1999
+44	Star Wars: Phantom Menace	58	420	7/15/1999
+44	Star Wars: Phantom Menace	59	769	7/16/1999
+44	Star Wars: Phantom Menace	60	1281	7/17/1999
+44	Star Wars: Phantom Menace	61	965	7/18/1999
+44	Star Wars: Phantom Menace	62	458	7/19/1999
+44	Star Wars: Phantom Menace	63	479	7/20/1999
+44	Star Wars: Phantom Menace	64	440	7/21/1999
+44	Star Wars: Phantom Menace	65	446	7/22/1999
+44	Star Wars: Phantom Menace	66	644	7/23/1999
+44	Star Wars: Phantom Menace	67	1072	7/24/1999
+44	Star Wars: Phantom Menace	68	825	7/25/1999
+44	Star Wars: Phantom Menace	69	363	7/26/1999
+44	Star Wars: Phantom Menace	70	402	7/27/1999
+44	Star Wars: Phantom Menace	71	352	7/28/1999
+44	Star Wars: Phantom Menace	72	373	7/29/1999
+44	Star Wars: Phantom Menace	73	555	7/30/1999
+44	Star Wars: Phantom Menace	74	893	7/31/1999
+44	Star Wars: Phantom Menace	75	610	8/1/1999
+44	Star Wars: Phantom Menace	76	299	8/2/1999
+44	Star Wars: Phantom Menace	77	311	8/3/1999
+44	Star Wars: Phantom Menace	78	299	8/4/1999
+44	Star Wars: Phantom Menace	79	292	8/5/1999
+44	Star Wars: Phantom Menace	80	501	8/6/1999
+44	Star Wars: Phantom Menace	81	745	8/7/1999
+44	Star Wars: Phantom Menace	82	632	8/8/1999
+44	Star Wars: Phantom Menace	83	257	8/9/1999
+44	Star Wars: Phantom Menace	84	314	8/10/1999
+44	Star Wars: Phantom Menace	85	279	8/11/1999
+44	Star Wars: Phantom Menace	86	281	8/12/1999
+44	Star Wars: Phantom Menace	87	542	8/13/1999
+44	Star Wars: Phantom Menace	88	837	8/14/1999
+44	Star Wars: Phantom Menace	89	613	8/15/1999
+44	Star Wars: Phantom Menace	90	278	8/16/1999
+44	Star Wars: Phantom Menace	91	327	8/17/1999
+44	Star Wars: Phantom Menace	92	309	8/18/1999
+44	Star Wars: Phantom Menace	93	298	8/19/1999
+44	Star Wars: Phantom Menace	94	586	8/22/1999
+44	Star Wars: Phantom Menace	95	267	8/23/1999
+44	Star Wars: Phantom Menace	96	311	8/24/1999
+44	Star Wars: Phantom Menace	97	273	8/25/1999
+44	Star Wars: Phantom Menace	98	279	8/26/1999
+44	Star Wars: Phantom Menace	99	505	8/27/1999
+44	Star Wars: Phantom Menace	100	769	8/28/1999
+44	Star Wars: Phantom Menace	101	541	8/29/1999
+44	Star Wars: Phantom Menace	102	207	8/30/1999
+44	Star Wars: Phantom Menace	103	242	8/31/1999
+44	Star Wars: Phantom Menace	104	199	9/1/1999
+44	Star Wars: Phantom Menace	105	202	9/2/1999
+44	Star Wars: Phantom Menace	106	367	9/3/1999
+44	Star Wars: Phantom Menace	107	639	9/6/1999
+44	Star Wars: Phantom Menace	108	136	9/7/1999
+44	Star Wars: Phantom Menace	109	117	9/8/1999
+44	Star Wars: Phantom Menace	110	108	9/9/1999
+44	Star Wars: Phantom Menace	111	262	9/10/1999
+44	Star Wars: Phantom Menace	112	596	9/11/1999
+44	Star Wars: Phantom Menace	113	340	9/12/1999
+44	Star Wars: Phantom Menace	114	98	9/13/1999
+44	Star Wars: Phantom Menace	115	118	9/14/1999
+44	Star Wars: Phantom Menace	116	114	9/15/1999
+44	Star Wars: Phantom Menace	117	249	9/17/1999
+44	Star Wars: Phantom Menace	118	453	9/18/1999
+44	Star Wars: Phantom Menace	119	320	9/19/1999
+44	Star Wars: Phantom Menace	120	104	9/20/1999
+44	Star Wars: Phantom Menace	121	110	9/21/1999
+44	Star Wars: Phantom Menace	122	94	9/22/1999
+44	Star Wars: Phantom Menace	123	99	9/23/1999
+44	Star Wars: Phantom Menace	124	242	9/24/1999
+44	Star Wars: Phantom Menace	125	436	9/25/1999
+44	Star Wars: Phantom Menace	126	289	9/26/1999
+44	Star Wars: Phantom Menace	127	87	9/27/1999
+44	Star Wars: Phantom Menace	128	92	9/28/1999
+44	Star Wars: Phantom Menace	129	80	9/29/1999
+44	Star Wars: Phantom Menace	130	85	9/30/1999
+44	Star Wars: Phantom Menace	131	209	10/1/1999
+44	Star Wars: Phantom Menace	132	414	10/2/1999
+44	Star Wars: Phantom Menace	133	293	10/3/1999
+44	Star Wars: Phantom Menace	134	80	10/4/1999
+44	Star Wars: Phantom Menace	135	89	10/5/1999
+44	Star Wars: Phantom Menace	136	86	10/6/1999
+44	Star Wars: Phantom Menace	137	98	10/7/1999
+44	Star Wars: Phantom Menace	138	229	10/8/1999
+44	Star Wars: Phantom Menace	139	400	10/9/1999
+44	Star Wars: Phantom Menace	140	289	10/10/1999
+44	Star Wars: Phantom Menace	141	164	10/11/1999
+44	Star Wars: Phantom Menace	142	96	10/12/1999
+44	Star Wars: Phantom Menace	143	83	10/13/1999
+44	Star Wars: Phantom Menace	144	95	10/14/1999
+44	Star Wars: Phantom Menace	145	259	10/17/1999
+44	Star Wars: Phantom Menace	146	71	10/19/1999
+44	Star Wars: Phantom Menace	147	67	10/20/1999
+44	Star Wars: Phantom Menace	148	77	10/21/1999
+44	Star Wars: Phantom Menace	149	68	11/1/1999
+44	Star Wars: Phantom Menace	150	75	11/3/1999
+44	Star Wars: Phantom Menace	151	89	11/4/1999
+44	Star Wars: Phantom Menace	152	525	12/5/1999
+44	Star Wars: Phantom Menace	153	184	12/6/1999
+44	Star Wars: Phantom Menace	154	232	12/7/1999
+44	Star Wars: Phantom Menace	155	282	12/8/1999
+44	Star Wars: Phantom Menace	156	345	12/9/1999
+44	Star Wars: Phantom Menace	157	160	1/17/2000
+45	Super Size Me	1	973	5/17/2004
+45	Super Size Me	2	1035	5/18/2004
+45	Super Size Me	3	929	5/19/2004
+45	Super Size Me	4	3378	5/22/2004
+45	Super Size Me	5	2054	5/23/2004
+45	Super Size Me	6	1277	5/24/2004
+45	Super Size Me	7	885	5/25/2004
+45	Super Size Me	8	973	5/26/2004
+45	Super Size Me	9	885	5/27/2004
+45	Super Size Me	10	1523	5/28/2004
+45	Super Size Me	11	2015	5/29/2004
+45	Super Size Me	12	1914	5/30/2004
+45	Super Size Me	13	1645	5/31/2004
+45	Super Size Me	14	782	6/1/2004
+45	Super Size Me	15	766	6/2/2004
+45	Super Size Me	16	660	6/3/2004
+45	Super Size Me	17	1220	6/4/2004
+45	Super Size Me	18	1683	6/5/2004
+45	Super Size Me	19	1268	6/6/2004
+45	Super Size Me	20	556	6/7/2004
+45	Super Size Me	21	668	6/8/2004
+45	Super Size Me	22	712	6/9/2004
+45	Super Size Me	23	707	6/10/2004
+46	Thirteen	NA	NA	NA
+47	Titanic	1	3220	12/19/1997
+47	Titanic	2	4114	12/20/1997
+47	Titanic	3	3376	12/21/1997
+47	Titanic	4	2086	12/22/1997
+47	Titanic	5	2272	12/23/1997
+47	Titanic	6	1214	12/24/1997
+47	Titanic	7	3166	12/25/1997
+47	Titanic	8	3932	12/26/1997
+47	Titanic	9	5024	12/27/1997
+47	Titanic	10	4506	12/28/1997
+47	Titanic	11	2930	12/29/1997
+47	Titanic	12	3021	12/30/1997
+47	Titanic	13	2908	12/31/1997
+47	Titanic	14	4002	1/1/1998
+47	Titanic	15	4303	1/2/1998
+47	Titanic	16	4674	1/3/1998
+47	Titanic	17	3260	1/4/1998
+47	Titanic	18	1108	1/5/1998
+47	Titanic	19	1117	1/6/1998
+47	Titanic	20	1042	1/7/1998
+47	Titanic	21	1023	1/8/1998
+47	Titanic	22	2835	1/9/1998
+47	Titanic	23	4654	1/10/1998
+47	Titanic	24	2993	1/11/1998
+47	Titanic	25	790	1/12/1998
+47	Titanic	26	869	1/13/1998
+47	Titanic	27	763	1/14/1998
+47	Titanic	28	801	1/15/1998
+47	Titanic	29	2647	1/16/1998
+47	Titanic	30	4469	1/17/1998
+47	Titanic	31	3598	1/18/1998
+47	Titanic	32	2170	1/19/1998
+47	Titanic	33	839	1/20/1998
+47	Titanic	34	751	1/21/1998
+47	Titanic	35	800	1/22/1998
+47	Titanic	36	2568	1/23/1998
+47	Titanic	37	4547	1/24/1998
+47	Titanic	38	2069	1/25/1998
+47	Titanic	39	686	1/26/1998
+47	Titanic	40	694	1/27/1998
+47	Titanic	41	653	1/28/1998
+47	Titanic	42	708	1/29/1998
+47	Titanic	43	2322	1/30/1998
+47	Titanic	44	4185	1/31/1998
+47	Titanic	45	2555	2/1/1998
+47	Titanic	46	667	2/2/1998
+47	Titanic	47	608	2/3/1998
+47	Titanic	48	506	2/4/1998
+47	Titanic	49	673	2/5/1998
+47	Titanic	50	1952	2/6/1998
+47	Titanic	51	3696	2/7/1998
+47	Titanic	52	1860	2/8/1998
+47	Titanic	53	458	2/9/1998
+47	Titanic	54	510	2/10/1998
+47	Titanic	55	494	2/11/1998
+47	Titanic	56	582	2/12/1998
+47	Titanic	57	1909	2/13/1998
+47	Titanic	58	4347	2/14/1998
+47	Titanic	59	3127	2/15/1998
+47	Titanic	60	1568	2/16/1998
+47	Titanic	61	624	2/17/1998
+47	Titanic	62	542	2/18/1998
+47	Titanic	63	584	2/19/1998
+47	Titanic	64	1742	2/20/1998
+47	Titanic	65	3305	2/21/1998
+47	Titanic	66	2064	2/22/1998
+47	Titanic	67	392	2/23/1998
+47	Titanic	68	442	2/24/1998
+47	Titanic	69	350	2/25/1998
+47	Titanic	70	409	2/26/1998
+47	Titanic	71	1582	2/27/1998
+47	Titanic	72	3102	2/28/1998
+47	Titanic	73	1818	3/1/1998
+47	Titanic	74	350	3/2/1998
+47	Titanic	75	424	3/3/1998
+47	Titanic	76	347	3/4/1998
+47	Titanic	77	384	3/5/1998
+47	Titanic	78	1373	3/6/1998
+47	Titanic	79	2693	3/7/1998
+47	Titanic	80	1574	3/8/1998
+47	Titanic	81	340	3/9/1998
+47	Titanic	82	398	3/10/1998
+47	Titanic	83	360	3/11/1998
+47	Titanic	84	418	3/12/1998
+47	Titanic	85	1393	3/13/1998
+47	Titanic	86	2620	3/14/1998
+47	Titanic	87	1625	3/15/1998
+47	Titanic	88	424	3/16/1998
+47	Titanic	89	474	3/17/1998
+47	Titanic	90	476	3/18/1998
+47	Titanic	91	524	3/19/1998
+47	Titanic	92	1381	3/20/1998
+47	Titanic	93	2553	3/21/1998
+47	Titanic	94	1528	3/22/1998
+47	Titanic	95	334	3/23/1998
+47	Titanic	96	502	3/24/1998
+47	Titanic	97	452	3/25/1998
+47	Titanic	98	454	3/26/1998
+47	Titanic	99	1290	3/27/1998
+47	Titanic	100	2233	3/28/1998
+47	Titanic	101	1138	3/29/1998
+47	Titanic	102	241	3/30/1998
+47	Titanic	103	315	3/31/1998
+47	Titanic	104	275	4/1/1998
+47	Titanic	105	286	4/2/1998
+47	Titanic	106	931	4/3/1998
+47	Titanic	107	1779	4/4/1998
+47	Titanic	108	835	4/5/1998
+47	Titanic	109	237	4/6/1998
+47	Titanic	110	286	4/7/1998
+47	Titanic	111	272	4/8/1998
+47	Titanic	112	390	4/9/1998
+47	Titanic	113	989	4/10/1998
+47	Titanic	114	1052	4/11/1998
+47	Titanic	115	550	4/12/1998
+47	Titanic	116	310	4/13/1998
+47	Titanic	117	310	4/14/1998
+47	Titanic	118	272	4/15/1998
+47	Titanic	119	268	4/16/1998
+47	Titanic	120	702	4/17/1998
+47	Titanic	121	1135	4/18/1998
+47	Titanic	122	585	4/19/1998
+47	Titanic	123	136	4/20/1998
+47	Titanic	124	149	4/21/1998
+47	Titanic	125	116	4/22/1998
+47	Titanic	126	131	4/23/1998
+47	Titanic	127	440	4/24/1998
+47	Titanic	128	838	4/25/1998
+47	Titanic	129	410	4/26/1998
+47	Titanic	130	88	4/27/1998
+47	Titanic	131	108	4/28/1998
+47	Titanic	132	89	4/29/1998
+47	Titanic	133	95	4/30/1998
+47	Titanic	134	370	5/1/1998
+47	Titanic	135	733	5/2/1998
+47	Titanic	136	335	5/3/1998
+47	Titanic	137	81	5/4/1998
+47	Titanic	138	96	5/5/1998
+47	Titanic	139	80	5/6/1998
+47	Titanic	140	82	5/7/1998
+47	Titanic	141	324	5/8/1998
+47	Titanic	142	629	5/9/1998
+47	Titanic	143	410	5/10/1998
+47	Titanic	144	94	5/11/1998
+47	Titanic	145	103	5/12/1998
+47	Titanic	146	81	5/13/1998
+47	Titanic	147	71	5/14/1998
+47	Titanic	148	263	5/15/1998
+47	Titanic	149	510	5/16/1998
+47	Titanic	150	273	5/17/1998
+47	Titanic	151	93	5/18/1998
+47	Titanic	152	75	5/19/1998
+47	Titanic	153	78	5/20/1998
+47	Titanic	154	93	5/21/1998
+47	Titanic	155	281	5/22/1998
+47	Titanic	156	525	5/23/1998
+47	Titanic	157	433	5/24/1998
+47	Titanic	158	350	5/25/1998
+47	Titanic	159	94	5/26/1998
+47	Titanic	160	91	5/27/1998
+47	Titanic	161	100	5/28/1998
+47	Titanic	162	273	5/29/1998
+47	Titanic	163	685	5/30/1998
+47	Titanic	164	315	5/31/1998
+47	Titanic	165	118	6/1/1998
+47	Titanic	166	136	6/2/1998
+47	Titanic	167	131	6/3/1998
+47	Titanic	168	141	6/4/1998
+47	Titanic	169	291	6/5/1998
+47	Titanic	170	521	6/6/1998
+47	Titanic	171	372	6/7/1998
+47	Titanic	172	144	6/8/1998
+47	Titanic	173	179	6/9/1998
+47	Titanic	174	149	6/10/1998
+47	Titanic	175	168	6/11/1998
+47	Titanic	176	344	6/12/1998
+47	Titanic	177	528	6/13/1998
+47	Titanic	178	373	6/14/1998
+47	Titanic	179	148	6/15/1998
+47	Titanic	180	178	6/16/1998
+47	Titanic	181	158	6/17/1998
+47	Titanic	182	162	6/18/1998
+47	Titanic	183	326	7/20/1998
+47	Titanic	184	384	7/21/1998
+47	Titanic	185	367	7/22/1998
+47	Titanic	186	386	7/23/1998
+48	"Upside of Anger, The"	1	1080	4/1/2005
+48	"Upside of Anger, The"	2	1620	4/2/2005
+48	"Upside of Anger, The"	3	900	4/3/2005
+48	"Upside of Anger, The"	4	248	4/4/2005
+48	"Upside of Anger, The"	5	280	4/5/2005
+48	"Upside of Anger, The"	6	293	4/6/2005
+48	"Upside of Anger, The"	7	295	4/7/2005
+48	"Upside of Anger, The"	8	695	4/8/2005
+48	"Upside of Anger, The"	9	1043	4/9/2005
+48	"Upside of Anger, The"	10	434	4/10/2005
+48	"Upside of Anger, The"	11	169	4/11/2005
+48	"Upside of Anger, The"	12	201	4/12/2005
+48	"Upside of Anger, The"	13	195	4/13/2005
+48	"Upside of Anger, The"	14	174	4/14/2005
+48	"Upside of Anger, The"	15	515	4/15/2005
+48	"Upside of Anger, The"	16	858	4/16/2005
+48	"Upside of Anger, The"	17	343	4/17/2005
+48	"Upside of Anger, The"	18	135	4/18/2005
+48	"Upside of Anger, The"	19	151	4/19/2005
+48	"Upside of Anger, The"	20	160	4/20/2005
+48	"Upside of Anger, The"	21	142	4/21/2005
+49	You Can Count on Me	1	2543	11/19/2000
+49	You Can Count on Me	2	669	11/20/2000
+49	You Can Count on Me	3	793	11/21/2000
+49	You Can Count on Me	4	539	11/27/2000
+49	You Can Count on Me	5	559	11/28/2000
+49	You Can Count on Me	6	603	11/29/2000
+49	You Can Count on Me	7	591	11/30/2000
+49	You Can Count on Me	8	2075	12/3/2000
+49	You Can Count on Me	9	450	12/4/2000
+49	You Can Count on Me	10	480	12/5/2000
+49	You Can Count on Me	11	534	12/6/2000
+49	You Can Count on Me	12	512	12/7/2000
+49	You Can Count on Me	13	1585	12/10/2000
+49	You Can Count on Me	14	362	12/11/2000
+49	You Can Count on Me	15	408	12/12/2000
+49	You Can Count on Me	16	379	12/13/2000
+49	You Can Count on Me	17	1346	12/17/2000
+49	You Can Count on Me	18	563	1/15/2001
