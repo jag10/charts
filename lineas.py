@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 # python 2.7, python3.5
 import csv
-import datetime
 
 reader = list(csv.reader(open('data/moviedaily.csv', 'r'), delimiter='\t'))
 

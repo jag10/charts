@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 # python 2.7, python3.5
 import matplotlib.pyplot as plt
-import csv
-import re, string
 import numpy as np
 
 def draw_v_line(plt, x_point, y1, y2, min_value, max_value):
