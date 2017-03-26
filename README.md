@@ -9,6 +9,11 @@ One to two paragraph statement about your product and what it does.
 
 ![matplotlib](http://matplotlib.org/_static/logo2.svg)
 
+## Samples
+### Innovation radar & Choropleth map
+<img alt="innovation radar" src="/samples/innovation_radar.png" width="400"><img alt="Choropleth map" src="/samples/choropleth.png" width="450">
+<!--![Choropleth map](/samples/choropleth.png)-->
+
 ## Installation
 
 You need to install the required libraries: matplotlib, numpy, geopandas, csv
