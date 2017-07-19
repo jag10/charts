@@ -43,7 +43,7 @@ You need to install the required libraries: matplotlib, numpy, geopandas, csv
 
 ## Meta
 
-Jeferson Arboleda – me@jglab.me
+Jeferson Arboleda – me@jarboleda.me - https://www.jarboleda.me
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
